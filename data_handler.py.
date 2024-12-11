@@ -1,0 +1,67 @@
+import json
+import os
+
+class DataHandler:
+    def __init__(self, file_name="sidekick_memory.json"):
+        """
+        Initialize the data handler with a file for persistent memory.
+        """
+        self.file_name = file_name
+        self.data = self._load_data()
+
+    def _load_data(self):
+        """
+        Load data from the memory file if it exists, otherwise start fresh.
+        """
+        if os.path.exists(self.file_name):
+            with open(self.file_name, "r") as file:
+                return json.load(file)
+        else:
+            return {"memory": {}, "patterns": {}, "interactions": []}
+
+    def save_data(self):
+        """
+        Save the current data to the memory file.
+        """
+        with open(self.file_name, "w") as file:
+            json.dump(self.data, file, indent=4)
+
+    def add_interaction(self, interaction):
+        """
+        Add a new interaction to the memory.
+        """
+        self.data["interactions"].append(interaction)
+        self.save_data()
+
+    def add_memory(self, key, value):
+        """
+        Add or update a memory key-value pair.
+        """
+        self.data["memory"][key] = value
+        self.save_data()
+
+    def add_pattern(self, pattern_key, pattern_data):
+        """
+        Add or update patterns identified in data.
+        """
+        self.data["patterns"][pattern_key] = pattern_data
+        self.save_data()
+
+    def get_all_data(self):
+        """
+        Retrieve all stored data.
+        """
+        return self.data
+
+    def find_pattern(self, search_key):
+        """
+        Search for patterns by key.
+        """
+        return self.data["patterns"].get(search_key, "Pattern not found")
+
+# Example usage:
+# handler = DataHandler()
+# handler.add_interaction({"user_input": "Hello", "response": "Hi there!"})
+# handler.add_memory("user_name", "Alice")
+# handler.add_pattern("greeting", {"examples": ["Hi", "Hello"], "response": "Hello, friend!"})
+# print(handler.get_all_data())
