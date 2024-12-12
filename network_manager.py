@@ -1,40 +1,38 @@
 import datetime
 
 class NetworkManager:
-    def __init__(self):
-        """Initialize the network manager with approved devices, cloud services, and logs."""
+    def __init__(self, creator_id):
+        """
+        Initialize the network manager with approved devices, cloud services, and logs.
+        Also, set the creator ID for privileged access.
+        """
+        self.creator_id = creator_id
         self.approved_devices = {}
         self.cloud_services = []
         self.network_logs = []
 
-    def approve_device(self, device_name):
-        """Approve a new device."""
-        self.approved_devices[device_name] = {"access": True, "added": datetime.datetime.now()}
-        print(f"Device '{device_name}' approved.")
+    def verify_creator(self, user_id):
+        """Verify if the user is the creator."""
+        return user_id == self.creator_id
 
-    def revoke_device_access(self, device_name):
-        """Revoke access to an existing device."""
-        if device_name in self.approved_devices:
-            self.approved_devices[device_name]["access"] = False
-            print(f"Access revoked for device '{device_name}'.")
+    def approve_device(self, device_name, user_id):
+        """Approve a new device if the user is the creator."""
+        if self.verify_creator(user_id):
+            self.approved_devices[device_name] = {"access": True, "added": datetime.datetime.now()}
+            print(f"Device '{device_name}' approved by creator.")
         else:
-            print(f"Device '{device_name}' not found.")
+            print("Unauthorized attempt to approve a device.")
 
-    def add_cloud_service(self, service_name):
-        """Add a cloud service."""
-        if service_name not in self.cloud_services:
-            self.cloud_services.append(service_name)
-            print(f"Cloud service '{service_name}' added.")
+    def revoke_device_access(self, device_name, user_id):
+        """Revoke access to a device if the user is the creator."""
+        if self.verify_creator(user_id):
+            if device_name in self.approved_devices:
+                self.approved_devices[device_name]["access"] = False
+                print(f"Access revoked for device '{device_name}' by creator.")
+            else:
+                print(f"Device '{device_name}' not found.")
         else:
-            print(f"Cloud service '{service_name}' is already added.")
-
-    def remove_cloud_service(self, service_name):
-        """Remove a cloud service."""
-        if service_name in self.cloud_services:
-            self.cloud_services.remove(service_name)
-            print(f"Cloud service '{service_name}' removed.")
-        else:
-            print(f"Cloud service '{service_name}' not found.")
+            print("Unauthorized attempt to revoke device access.")
 
     def log_network_activity(self, activity):
         """Log network activity."""
@@ -55,9 +53,6 @@ class NetworkManager:
             print("Security suggestions:")
             for suggestion in suggestions:
                 print(f"- {suggestion}")
-                self.network_logs.append(
-                    f"[{datetime.datetime.now()}] Security suggestion: {suggestion}"
-                )
         else:
             print("No security concerns detected.")
 
@@ -70,7 +65,8 @@ class NetworkManager:
 
 # Example usage
 if __name__ == "__main__":
-    network_manager = NetworkManager()
-    network_manager.approve_device("Laptop")
+    network_manager = NetworkManager(creator_id="Randell_Murrin")
+    user_id = "Randell_Murrin"  # Simulating the creator's ID
+    network_manager.approve_device("Laptop", user_id)
     network_manager.log_network_activity("User connected a laptop to the network.")
     network_manager.check_security()
