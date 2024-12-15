@@ -1,85 +1,51 @@
 from network_manager import NetworkManager
-from data_handler import DataHandler
-from security import SimpleSecurity
-from belief_system import BeliefSystem
+from command_manager import CommandManager
 
-class Sidekick:
-    def __init__(self, creator_id):
-        """Initialize Sidekick with all core modules."""
-        self.creator_id = creator_id
-        self.data_handler = DataHandler()
-        self.network_manager = NetworkManager(creator_id=creator_id)
-        self.security = SimpleSecurity(key="your-secret-key")
-        self.belief_system = BeliefSystem()
-        self.network_manager.log_event("Sidekick initialized with networking and belief system capabilities.")
+class SidekickUI:
+    def __init__(self):
+        """
+        Initialize the Sidekick UI with essential components,
+        including the network manager, command manager, and creator ID.
+        """
+        self.creator_id = "Randell_Murrin"
+        self.network_manager = NetworkManager(creator_id=self.creator_id)
+        self.command_manager = CommandManager()
 
-    def interact(self):
-        """Main interaction loop."""
-        print("Hello, I'm Sidekick. How can I assist you today?")
+    def start(self):
+        """Start the Sidekick user interface."""
+        print("Welcome to Sidekick!")
+        print("Type 'help' to see available commands or 'exit' to stop.")
+        
+        # Example interaction at startup
+        self.network_manager.approve_device("Smartphone", self.creator_id)
+        self.network_manager.log_network_activity("Smartphone connected to network.")
+        self.network_manager.check_security()
+
+        # Interactive loop to receive user commands
+        self.interactive_loop()
+
+    def interactive_loop(self):
+        """Continuous loop to process user commands."""
         while True:
-            user_input = input("> ").strip().lower()
-            if user_input == "exit":
-                print("Goodbye! Talk to you later.")
+            user_input = input("\nEnter a command: ")
+            if user_input.lower() == "exit":
+                print("Goodbye! Sidekick shutting down.")
                 break
-            elif user_input.startswith("network"):
-                self.handle_network_commands(user_input)
-            elif user_input.startswith("security"):
-                self.handle_security_commands(user_input)
-            elif user_input.startswith("belief"):
-                self.handle_belief_commands(user_input)
+            elif user_input.lower() == "help":
+                self.display_help()
             else:
-                print("I didn’t understand that. Can you rephrase?")
+                self.command_manager.execute_command(user_input)
 
-    def handle_network_commands(self, command):
-        """Process network-related commands."""
-        if "discover" in command:
-            devices = self.network_manager.discover_devices()
-            print("Devices discovered:")
-            for device in devices:
-                print(f"- {device['name']} ({device['ip']})")
-        elif "approve" in command:
-            device_name = input("Enter device name: ")
-            ip_address = input("Enter device IP address: ")
-            self.network_manager.approve_device(device_name, ip_address)
-        elif "suggest security" in command:
-            self.network_manager.suggest_security_measures()
-        elif "sync cloud" in command:
-            service_name = input("Enter cloud service name: ")
-            self.network_manager.sync_with_cloud(service_name)
-        else:
-            print("Network command not recognized.")
-
-    def handle_security_commands(self, command):
-        """Process security-related commands."""
-        if "encrypt" in command:
-            sensitive_data = input("Enter data to encrypt: ")
-            encrypted = self.security.encrypt_data(sensitive_data)
-            print(f"Encrypted data: {encrypted}")
-        elif "decrypt" in command:
-            encrypted_data = input("Enter data to decrypt: ")
-            try:
-                decrypted = self.security.decrypt_data(encrypted_data)
-                print(f"Decrypted data: {decrypted}")
-            except Exception as e:
-                print(f"Error decrypting data: {e}")
-        else:
-            print("Security command not recognized.")
-
-    def handle_belief_commands(self, command):
-        """Process belief system-related commands."""
-        if "profile" in command:
-            belief_profile = self.belief_system.get_belief_profile()
-            print("Current Belief Profile:")
-            for key, value in belief_profile.items():
-                print(f"{key}: {value}")
-        elif "update" in command:
-            belief_update = input("Enter belief update data: ")
-            self.belief_system.update_beliefs(belief_update)
-            print("Belief system updated.")
-        else:
-            print("Belief command not recognized.")
+    def display_help(self):
+        """Display a list of available commands."""
+        print("\nAvailable Commands:")
+        print("- 'log behavior': Detect user habits and behaviors.")
+        print("- 'check network': Perform a network security check.")
+        print("- 'show beliefs': Display Sidekick's belief system.")
+        print("- 'log activity <description>': Log a specific activity.")
+        print("- 'exit': Exit the program.")
 
 # Example usage
 if __name__ == "__main__":
-    sidekick = Sidekick(creator_id="your_creator_id")
-    sidekick.interact()
+    ui = SidekickUI()
+    ui.start()
