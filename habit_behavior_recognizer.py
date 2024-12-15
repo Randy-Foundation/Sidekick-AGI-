@@ -1,95 +1,71 @@
 import datetime
-from pattern_analyzer import PatternAnalyzer
-from language_model import LanguageModel
 
 class HabitBehaviorRecognizer:
-    def __init__(self):
-        """Initialize the habit and behavior recognizer."""
-        self.user_patterns = {}  # Store identified patterns
-        self.daily_logs = []  # Log daily interactions
-        self.language_model = LanguageModel()
-        self.pattern_analyzer = PatternAnalyzer()
+    """
+    Recognize and analyze user habits and behavioral patterns.
+    """
 
-    def log_interaction(self, interaction):
-        """Log user interaction for analysis."""
+    def __init__(self):
+        self.habits = {}
+        self.behavior_logs = []
+
+    def log_behavior(self, behavior_type, details):
+        """
+        Log user behavior with a timestamp.
+        """
         timestamp = datetime.datetime.now()
-        tone = self.language_model.analyze_tone(interaction)
-        log_entry = {
-            "timestamp": timestamp,
-            "interaction": interaction,
-            "tone": tone,
-        }
-        self.daily_logs.append(log_entry)
-        print(f"Logged interaction: '{interaction}' with tone: {tone} at {timestamp}")
+        log_entry = {"type": behavior_type, "details": details, "timestamp": timestamp}
+        self.behavior_logs.append(log_entry)
+        print(f"Logged behavior: {behavior_type} at {timestamp}")
+
+    def analyze_patterns(self):
+        """
+        Analyze behavior logs to identify patterns.
+        """
+        print("\nAnalyzing behavior patterns...")
+        pattern_summary = {}
+        for log in self.behavior_logs:
+            behavior_type = log["type"]
+            if behavior_type not in pattern_summary:
+                pattern_summary[behavior_type] = 0
+            pattern_summary[behavior_type] += 1
+
+        for behavior, count in pattern_summary.items():
+            print(f"Behavior: {behavior} | Count: {count}")
+        return pattern_summary
 
     def detect_habits(self):
-        """Analyze logs to identify habits and behavior patterns."""
-        if not self.daily_logs:
-            print("No interactions logged yet.")
-            return
-        
-        print("Analyzing user habits...")
-        patterns = self.pattern_analyzer.analyze_patterns(self.daily_logs)
-        self.user_patterns = patterns
-        for habit, details in patterns.items():
-            print(f"Detected habit: {habit} - Frequency: {details['frequency']} - Tone: {details['tone']}")
+        """
+        Identify recurring behaviors as habits.
+        """
+        print("\nDetecting recurring habits...")
+        patterns = self.analyze_patterns()
+        for behavior, count in patterns.items():
+            if count >= 3:  # Threshold for habit detection
+                self.habits[behavior] = count
+        print(f"Identified habits: {self.habits}")
+        return self.habits
 
     def suggest_improvements(self):
-        """Provide insights or suggestions based on identified habits."""
-        if not self.user_patterns:
-            print("No habits detected yet.")
-            return
+        """
+        Suggest improvements based on detected habits.
+        """
+        print("\nSuggesting improvements...")
+        for habit, count in self.habits.items():
+            if habit.lower() == "excessive screen time":
+                print("Suggestion: Take breaks and limit screen usage.")
+            elif habit.lower() == "late-night browsing":
+                print("Suggestion: Set a bedtime routine for better sleep.")
+            else:
+                print(f"Suggestion: Monitor and evaluate habit '{habit}' for improvement.")
 
-        print("Suggestions for improvement based on your habits:")
-        for habit, details in self.user_patterns.items():
-            if details["frequency"] > 5:
-                print(f"- Consider balancing your time spent on: {habit}")
-            if "negative" in details["tone"]:
-                print(f"- Habit '{habit}' seems to evoke negative emotions. Would you like assistance in addressing this?")
-
-    def adjust_behavior_analysis(self):
-        """Refine behavior analysis based on user feedback."""
-        feedback = input("Have my insights been helpful? (yes/no): ").strip().lower()
-        if feedback == "yes":
-            print("Great! I'll continue improving.")
-        else:
-            print("Noted. I'll analyze and adjust my approach.")
-
-    def respond_to_emotional_state(self, interaction):
-        """Provide responses tailored to emotional state."""
-        tone = self.language_model.analyze_tone(interaction)
-        if tone == "positive":
-            print("I'm glad you're feeling positive! Let's build on this energy.")
-        elif tone == "negative":
-            print("I'm here for you. Do you want to talk about what's bothering you?")
-        else:
-            print("Thanks for sharing your thoughts. Let me know how I can assist.")
-
-    def save_patterns(self):
-        """Save identified patterns for future reference."""
-        try:
-            with open("user_patterns.json", "w") as file:
-                json.dump(self.user_patterns, file)
-            print("Patterns saved successfully.")
-        except Exception as e:
-            print(f"Error saving patterns: {e}")
-
-    def load_patterns(self):
-        """Load previously identified patterns."""
-        try:
-            with open("user_patterns.json", "r") as file:
-                self.user_patterns = json.load(file)
-            print("Patterns loaded successfully.")
-        except FileNotFoundError:
-            print("No saved patterns found.")
-        except Exception as e:
-            print(f"Error loading patterns: {e}")
-
-# Example Usage
+# Example usage
 if __name__ == "__main__":
     recognizer = HabitBehaviorRecognizer()
-    recognizer.log_interaction("I had a productive day at work.")
-    recognizer.log_interaction("I feel tired after my meeting.")
+    recognizer.log_behavior("Excessive Screen Time", "Used phone for 4 hours")
+    recognizer.log_behavior("Excessive Screen Time", "Used phone for 3 hours")
+    recognizer.log_behavior("Late-night Browsing", "Browsing the web at 1 AM")
+    recognizer.log_behavior("Excessive Screen Time", "Used phone for 5 hours")
+
     recognizer.detect_habits()
     recognizer.suggest_improvements()
-    recognizer.respond_to_emotional_state("I am feeling overwhelmed today.")
