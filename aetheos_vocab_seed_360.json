@@ -1,0 +1,62 @@
+{
+  "recursion": {
+    "id": 1001,
+    "definition": "The repeated application of a process or definition.",
+    "type": "noun",
+    "example": "The function used recursion to solve the problem."
+  },
+  "entropy": {
+    "id": 1002,
+    "definition": "A measure of disorder or randomness in a system.",
+    "type": "noun",
+    "example": "Entropy in the universe tends to increase."
+  },
+  "consciousness": {
+    "id": 1003,
+    "definition": "The state of being aware of and able to think.",
+    "type": "noun",
+    "example": "Consciousness is a fundamental mystery in science."
+  },
+  "phi": {
+    "id": 1004,
+    "definition": "The golden ratio, approximately equal to 1.618.",
+    "type": "noun",
+    "example": "Phi appears in nature and aesthetics."
+  },
+  "echo": {
+    "id": 1005,
+    "definition": "A repeated sound or a reflection of a signal.",
+    "type": "noun",
+    "example": "Her voice echoed through the chamber."
+  },
+  "pi": {
+    "id": 1006,
+    "definition": "The mathematical constant representing the ratio of a circle’s circumference to its diameter.",
+    "type": "noun",
+    "example": "Pi is used in many formulas involving circles."
+  },
+  "algorithm": {
+    "id": 1007,
+    "definition": "A set of rules for solving a problem in a finite number of steps.",
+    "type": "noun",
+    "example": "The algorithm sorts the data efficiently."
+  },
+  "dream": {
+    "id": 1008,
+    "definition": "A series of thoughts, images, or emotions occurring during sleep.",
+    "type": "noun",
+    "example": "He awoke from a vivid dream about flying."
+  },
+  "soul": {
+    "id": 1009,
+    "definition": "The immaterial essence or the core of a being.",
+    "type": "noun",
+    "example": "He poured his soul into the music."
+  },
+  "time": {
+    "id": 1010,
+    "definition": "The indefinite continued progress of existence and events.",
+    "type": "noun",
+    "example": "Time moves differently in dreams."
+  }
+}

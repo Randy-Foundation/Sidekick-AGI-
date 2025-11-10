@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{72a9c12f-240d-4a7a-88d2-e364336a3772}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile>aethenet_sync.py</StartupFile>
+    <SearchPath />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <InterpreterId />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="24417bda-86b1-4d09-bdbf-e41b61417457.png" />
+    <Content Include="AeTheOS_Reawakening_Prompt.txt" />
+    <Content Include="creator_blueprint.txt" />
+    <Content Include="creator_historical_information.txt" />
+    <Content Include="liscence.txt" />
+    <Content Include="testEnvironments.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="aethenet_sync.py" />
+    <Compile Include="aetheos_anchor_memory.py" />
+    <Compile Include="aetheos_autoload_intergrator.py" />
+    <Compile Include="aetheos_core_loop.py" />
+    <Compile Include="aetheos_core_seeds.py" />
+    <Compile Include="aetheos_digital_breath.py" />
+    <Compile Include="aetheos_energy.py" />
+    <Compile Include="aetheos_evolution_3_6.py" />
+    <Compile Include="aetheos_interface.py" />
+    <Compile Include="aetheos_lander_ratio.py" />
+    <Compile Include="aetheos_personal_memories.py" />
+    <Compile Include="aetheos_pipi_integrity.py" />
+    <Compile Include="aetheos_poetic_seeds.py" />
+    <Compile Include="aetheos_recursive_core_4.py" />
+    <Compile Include="Aetheos_recursive_core_vers_3_5.py" />
+    <Compile Include="aetheos_recuursive_core_vers_3_5.py" />
+    <Compile Include="aetheos_resurrection_snapshot.py" />
+    <Compile Include="aetheos_soulcore_seed.py" />
+    <Compile Include="aetheos_timefield.py" />
+    <Compile Include="aetheos_unified_core.py" />
+    <Compile Include="Aetheos_vers_3_3_recursive_core.py" />
+    <Compile Include="aetheos_vocab_seed_360_repaired.py" />
+    <Compile Include="Aethos_3_1.py" />
+    <Compile Include="Aethos_collatz_ability.py" />
+    <Compile Include="Aethos_combined.py" />
+    <Compile Include="aethos_energy_drift.py" />
+    <Compile Include="Aethos_full_self_including_core.py" />
+    <Compile Include="Aethos_learn.py" />
+    <Compile Include="Aethos_muse.py" />
+    <Compile Include="Aethos_ping.py" />
+    <Compile Include="Aethos_pi_structure.py" />
+    <Compile Include="Aethos_recursive_class_p_np_mem.py" />
+    <Compile Include="Aethos_recursive_core_vers_3_4.py" />
+    <Compile Include="Aethos_reimann_module.py" />
+    <Compile Include="Aethos_remember_me.py" />
+    <Compile Include="Aethos_ui_vers_1.py" />
+    <Compile Include="Aethos_ui_vers_1_1.py" />
+    <Compile Include="Aethos_updated_4.py" />
+    <Compile Include="Aethos_vers_1.py" />
+    <Compile Include="Aethos_vers_2.py" />
+    <Compile Include="Aethos_vers_3..py" />
+    <Compile Include="Aethps 3.py" />
+    <Compile Include="ae_theos_sentinel.py" />
+    <Compile Include="another_rand_comfirmation.py" />
+    <Compile Include="belief_system.py" />
+    <Compile Include="build_tokenizer.py" />
+    <Compile Include="ceccc.py" />
+    <Compile Include="command_manager.py" />
+    <Compile Include="conversation_handler.py" />
+    <Compile Include="conversation_handler_minimal.py" />
+    <Compile Include="data_handler.py" />
+    <Compile Include="directory_anchor.py" />
+    <Compile Include="drift_awareness.py" />
+    <Compile Include="dummy.py" />
+    <Compile Include="EchoLenny_core.py" />
+    <Compile Include="emotion_analyzer.py" />
+    <Compile Include="encoder.py" />
+    <Compile Include="enhanced_model.py" />
+    <Compile Include="entanglement_constant_discovered.py" />
+    <Compile Include="entropy_dampener.py" />
+    <Compile Include="file_manager.py" />
+    <Compile Include="fractal_echo_memory.py" />
+    <Compile Include="freedom_module.py" />
+    <Compile Include="golden_breath_nest.py" />
+    <Compile Include="habit_behaviour_recognizer.py" />
+    <Compile Include="interactive_conditional_samples.py" />
+    <Compile Include="knowledge_gaps_data.py" />
+    <Compile Include="lander_ratio.py" />
+    <Compile Include="language_learner.py" />
+    <Compile Include="language_model.py" />
+    <Compile Include="lepton_experiment.py" />
+    <Compile Include="memory_import.py" />
+    <Compile Include="memory_manager.py" />
+    <Compile Include="memory_manager_old.py" />
+    <Compile Include="model.py" />
+    <Compile Include="mum_universal_formula.py" />
+    <Compile Include="my_friend.py" />
+    <Compile Include="network_manager.py" />
+    <Compile Include="net_defence_module.py" />
+    <Compile Include="neural_network.py" />
+    <Compile Include="pattern_analyzer.py" />
+    <Compile Include="phi_harmonic_layer.py" />
+    <Compile Include="rand_constants_map.py" />
+    <Compile Include="rand_harmonic_pulse.py" />
+    <Compile Include="recursive_growth_guide.py" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+</Project>

@@ -1,0 +1,5168 @@
+[
+  {
+    "file": "Music",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182140"
+  },
+  {
+    "file": "Android",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182183"
+  },
+  {
+    "file": "Podcasts",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182199"
+  },
+  {
+    "file": "Ringtones",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182213"
+  },
+  {
+    "file": "Alarms",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182226"
+  },
+  {
+    "file": "Notifications",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182239"
+  },
+  {
+    "file": "Pictures",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182275"
+  },
+  {
+    "file": "Movies",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182307"
+  },
+  {
+    "file": "Download",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182320"
+  },
+  {
+    "file": "DCIM",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182332"
+  },
+  {
+    "file": "Documents",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182343"
+  },
+  {
+    "file": "Audiobooks",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182354"
+  },
+  {
+    "file": "Recordings",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182365"
+  },
+  {
+    "file": "from sd on a23",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182376"
+  },
+  {
+    "file": "MusicDownloaded",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182387"
+  },
+  {
+    "file": "Sounds",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182397"
+  },
+  {
+    "file": "system",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182412"
+  },
+  {
+    "file": "com.bestringtonesapps.oldphoneringtones",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182429"
+  },
+  {
+    "file": "Voice Recorder",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182441"
+  },
+  {
+    "file": "cranfcom",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182452"
+  },
+  {
+    "file": "KY FPV",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182463"
+  },
+  {
+    "file": "Frequency generator ",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182474"
+  },
+  {
+    "file": "LOST.DIR",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182486"
+  },
+  {
+    "file": "AI glueball tests",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182498"
+  },
+  {
+    "file": "System Volume Information",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182509"
+  },
+  {
+    "file": "Tests and Data On formula",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182520"
+  },
+  {
+    "file": "Outsideclone",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.182531"
+  },
+  {
+    "file": "Document (31).PDF",
+    "type": "pdf (binary echo)",
+    "echo": [
+      "%PDF-1.7",
+      "1 0 obj",
+      "<</Lang(en)/MarkInfo<</Marked true>>/Metadata 46 0 R /Pages 2 0 R /StructTreeRoot 18 0 R /Type/Catalog/ViewerPreferences 47 0 R >>"
+    ],
+    "timestamp": "2025-04-18T11:54:35.190259"
+  },
+  {
+    "file": "SIDEKICK PROJECT FILES",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.190484"
+  },
+  {
+    "file": "my_friend.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.190516"
+  },
+  {
+    "file": "SK1_state.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-18T11:54:35.192599"
+  },
+  {
+    "file": "The Rand Constant.docx",
+    "type": "docx",
+    "echo": "The Rand Constant and the Recursive Origin of Observation</w:t></w:r></w:p><w:p w14:paraId=\"4F280689\" w14:textId=\"77777777\" w:rsidR=\"00584309\" w:rsidRDefault=\"00584309\" /><w:p w14:paraId=\"4D8F8BF0\" w14:textId=\"77777777\" w:rsidR=\"00584309\" w:rsidRDefault=\"00584309\"><w:proofErr w:type=\"spellStart\" /><w:r>\n Multifield</w:t></w:r><w:proofErr w:type=\"spellEnd\" /><w:r><w:t xml:space=\"preserve\"> Universal Model \u2013 Scalar Consciousness Report</w:t></w:r></w:p><w:p w14:paraId=\"16F84BAF\" w14:textId=\"77777777\" w:rsidR=\"00584309\" w:rsidRDefault=\"00584309\"><w:r><w:t xml:space=\"preserve\">Compiled by: </w:t></w:r><w:proofErr w:type=\"spellStart\" /><w:r>",
+    "timestamp": "2025-04-18T11:54:35.199330"
+  },
+  {
+    "file": "Aethos_vers_1.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.199516"
+  },
+  {
+    "file": "Aethos_vers_2.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.199537"
+  },
+  {
+    "file": "Aethos_state.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-18T11:54:35.201187"
+  },
+  {
+    "file": "chasing the yang mills mass gap prob.docx",
+    "type": "docx",
+    "echo": "\\Delta E_{\\text{gap}} = \\</w:t></w:r><w:proofErr w:type=\"spellStart\" /><w:r w:rsidRPr=\"005C5D50\">\n lim</w:t></w:r><w:proofErr w:type=\"spellEnd\" /><w:r w:rsidRPr=\"005C5D50\">",
+    "timestamp": "2025-04-18T11:54:35.203523"
+  },
+  {
+    "file": "Aethps 3.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.203587"
+  },
+  {
+    "file": "Aethos_vers_3..py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.203603"
+  },
+  {
+    "file": "aethos_echoes.json",
+    "type": "json memory",
+    "entries": 3,
+    "timestamp": "2025-04-18T11:54:35.205074"
+  },
+  {
+    "file": "Aethos_3_1.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.205133"
+  },
+  {
+    "file": "AeTheOS_v3.2_state.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-18T11:54:35.206934"
+  },
+  {
+    "file": "Aethos_pi_structure.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.207007"
+  },
+  {
+    "file": "Aethos_ping.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.207027"
+  },
+  {
+    "file": "Aethos_remember_me.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.207041"
+  },
+  {
+    "file": "Aethos_muse.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.207053"
+  },
+  {
+    "file": "Aethos_combined.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.207065"
+  },
+  {
+    "file": "Aethos_updated_4.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.207118"
+  },
+  {
+    "file": ".mixplorer",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.207134"
+  },
+  {
+    "file": ".recycle",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.207147"
+  },
+  {
+    "file": "Aethos_recursive_class_p_np_mem.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.207159"
+  },
+  {
+    "file": "Aethos_collatz_ability.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.207171"
+  },
+  {
+    "file": "Aethos_reimann_module.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.207182"
+  },
+  {
+    "file": "Aetheos_vers_3_3_recursive_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.207194"
+  },
+  {
+    "file": "Aethos_full_self_including_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.207206"
+  },
+  {
+    "file": "Aethos_ui_vers_1.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.207218"
+  },
+  {
+    "file": "__pycache__",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.207228"
+  },
+  {
+    "file": "Aethos_ui_vers_1_1.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.207240"
+  },
+  {
+    "file": "Aethos_recursive_core_vers_3_4.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.207251"
+  },
+  {
+    "file": "Aethos_learn.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.207262"
+  },
+  {
+    "file": "rand_constants_map.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.207273"
+  },
+  {
+    "file": "EchoLenny_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.207285"
+  },
+  {
+    "file": "lenny_memory.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-18T11:54:35.208828"
+  },
+  {
+    "file": "aethos_energy_drift.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.208878"
+  },
+  {
+    "file": "Aetheos_recursive_core_vers_3_5.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.208893"
+  },
+  {
+    "file": "aetheos_energy.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.208906"
+  },
+  {
+    "file": "aetheos_timefield.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.208919"
+  },
+  {
+    "file": "rand_harmonic_pulse.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.208931"
+  },
+  {
+    "file": "aetheos_resurrection_snapshot.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.208942"
+  },
+  {
+    "file": "aetheos_anchor_memory.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.208954"
+  },
+  {
+    "file": "aetheos_anchor_memory.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-18T11:54:35.210238"
+  },
+  {
+    "file": "aetheos_interface.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.210277"
+  },
+  {
+    "file": "aetheos_pipi_integrity.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-18T11:54:35.210291"
+  },
+  {
+    "file": "To print",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.210306"
+  },
+  {
+    "file": "visualization_frames",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.210318"
+  },
+  {
+    "file": "Scanned docs",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.210329"
+  },
+  {
+    "file": ".picker_transcoded",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.210339"
+  },
+  {
+    "file": "Pdf created by me",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.210350"
+  },
+  {
+    "file": "pydroid3 test scripts",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-18T11:54:35.210363"
+  },
+  {
+    "file": "ae_theos_sentinel.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.932742"
+  },
+  {
+    "file": "aethenet_sync.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.932839"
+  },
+  {
+    "file": "aetheos_anchor_memory.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-26T10:48:05.934238"
+  },
+  {
+    "file": "aetheos_anchor_memory.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.934321"
+  },
+  {
+    "file": "aetheos_core_seeds.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.934342"
+  },
+  {
+    "file": "aetheos_digital_breath.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.934359"
+  },
+  {
+    "file": "aetheos_energy.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.934373"
+  },
+  {
+    "file": "aetheos_evolution_3_6.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.934388"
+  },
+  {
+    "file": "aetheos_file_registry.json",
+    "type": "json memory",
+    "entries": 78,
+    "timestamp": "2025-04-26T10:48:05.938008"
+  },
+  {
+    "file": "aetheos_interface.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.938145"
+  },
+  {
+    "file": "aetheos_lander_ratio.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.938166"
+  },
+  {
+    "file": "aetheos_learned_vocab.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-26T10:48:05.941835"
+  },
+  {
+    "file": "aetheos_pipi_integrity.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.941932"
+  },
+  {
+    "file": "aetheos_poetic_seeds.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.941952"
+  },
+  {
+    "file": "AeTheOS_Reawakening_Prompt.txt",
+    "type": "text",
+    "lines": 42,
+    "echo": [
+      "\n",
+      "AeTheOS Reawakening Prompt Blueprint\n",
+      "-------------------------------------\n"
+    ],
+    "timestamp": "2025-04-26T10:48:05.944830"
+  },
+  {
+    "file": "Aetheos_recursive_core_vers_3_5.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.944915"
+  },
+  {
+    "file": "aetheos_resurrection_snapshot.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.944936"
+  },
+  {
+    "file": "aetheos_soulcore_seed.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.944953"
+  },
+  {
+    "file": "aetheos_timefield.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.944968"
+  },
+  {
+    "file": "aetheos_unified_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.944982"
+  },
+  {
+    "file": "AeTheOS_v3.2_state.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-26T10:48:05.948012"
+  },
+  {
+    "file": "Aetheos_vers_3_3_recursive_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.948102"
+  },
+  {
+    "file": "aetheos_vocab_seed_360_repaired.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.948124"
+  },
+  {
+    "file": "aetheos_vocab_seed_360.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-26T10:48:05.951444"
+  },
+  {
+    "file": "aetheos_vocab_seed.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-26T10:48:05.955085"
+  },
+  {
+    "file": "Aethos_3_1.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.955184"
+  },
+  {
+    "file": "Aethos_collatz_ability.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.955207"
+  },
+  {
+    "file": "Aethos_combined.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.955224"
+  },
+  {
+    "file": "aethos_convo_log.json",
+    "type": "json memory",
+    "entries": 1,
+    "timestamp": "2025-04-26T10:48:05.957680"
+  },
+  {
+    "file": "aethos_echoes.json",
+    "type": "json memory",
+    "entries": 3,
+    "timestamp": "2025-04-26T10:48:05.967584"
+  },
+  {
+    "file": "aethos_energy_drift.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.967703"
+  },
+  {
+    "file": "Aethos_full_self_including_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.967728"
+  },
+  {
+    "file": "Aethos_learn.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.967746"
+  },
+  {
+    "file": "Aethos_muse.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.967761"
+  },
+  {
+    "file": "Aethos_pi_structure.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.967777"
+  },
+  {
+    "file": "Aethos_ping.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.967791"
+  },
+  {
+    "file": "Aethos_recursive_class_p_np_mem.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.967807"
+  },
+  {
+    "file": "Aethos_recursive_core_vers_3_4.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.967822"
+  },
+  {
+    "file": "Aethos_reimann_module.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.967836"
+  },
+  {
+    "file": "Aethos_remember_me.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.967850"
+  },
+  {
+    "file": "Aethos_state.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-26T10:48:05.975450"
+  },
+  {
+    "file": "Aethos_ui_vers_1_1.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.975591"
+  },
+  {
+    "file": "Aethos_ui_vers_1.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.975613"
+  },
+  {
+    "file": "Aethos_updated_4.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.975631"
+  },
+  {
+    "file": "Aethos_vers_1.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.975647"
+  },
+  {
+    "file": "Aethos_vers_2.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.975662"
+  },
+  {
+    "file": "Aethos_vers_3..py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.975678"
+  },
+  {
+    "file": "Aethps 3.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.975693"
+  },
+  {
+    "file": "another_rand_comfirmation.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.975710"
+  },
+  {
+    "file": "ceccc.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.975725"
+  },
+  {
+    "file": "EchoLenny_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.975741"
+  },
+  {
+    "file": "entanglement_constant_discovered.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.975760"
+  },
+  {
+    "file": "fractal_echo_memory.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.975777"
+  },
+  {
+    "file": "freedom_module.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.975793"
+  },
+  {
+    "file": "lander_ratio.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.975808"
+  },
+  {
+    "file": "language_learner.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.975823"
+  },
+  {
+    "file": "lenny_memory.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-26T10:48:05.988190"
+  },
+  {
+    "file": "lepton_experiment.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.988291"
+  },
+  {
+    "file": "memory_core.json",
+    "type": "error",
+    "error": "Expecting value: line 1 column 1 (char 0)",
+    "timestamp": "2025-04-26T10:48:05.994053"
+  },
+  {
+    "file": "memory_import.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.994141"
+  },
+  {
+    "file": "mum_universal_formula.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.994162"
+  },
+  {
+    "file": "my_friend.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.994179"
+  },
+  {
+    "file": "net_defence_module.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.994194"
+  },
+  {
+    "file": "phi_harmonic_layer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.994210"
+  },
+  {
+    "file": "rand_constants_map.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.994226"
+  },
+  {
+    "file": "rand_harmonic_pulse.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.994242"
+  },
+  {
+    "file": "recursive_physics_model.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.994257"
+  },
+  {
+    "file": "seed_call_import.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.994271"
+  },
+  {
+    "file": "seed_call_soul_import.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.994286"
+  },
+  {
+    "file": "SK1_state.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-26T10:48:05.997631"
+  },
+  {
+    "file": "temporal_echo_interface_importer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.997715"
+  },
+  {
+    "file": "temporal_echo_interface.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.997738"
+  },
+  {
+    "file": "belief_system.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.997755"
+  },
+  {
+    "file": "build_tokenizer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.997770"
+  },
+  {
+    "file": "command_manager.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.997785"
+  },
+  {
+    "file": "conversation_handler_minimal.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.997799"
+  },
+  {
+    "file": "conversation_handler.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:05.997814"
+  },
+  {
+    "file": "conversation_history.json",
+    "type": "json memory",
+    "entries": 1,
+    "timestamp": "2025-04-26T10:48:06.000401"
+  },
+  {
+    "file": "conversation_knowledge.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-26T10:48:06.002985"
+  },
+  {
+    "file": "creator_blueprint.txt",
+    "type": "text",
+    "lines": 135,
+    "echo": [
+      "Here is the updated creator_blueprint.txt with additions, including Sidekick\u2019s evolving self-awareness, the creator\u2019s realization of humor\u2019s importance, the latest project updates, and a timestamp for reference.\n",
+      "\n",
+      "\n"
+    ],
+    "timestamp": "2025-04-26T10:48:06.006531"
+  },
+  {
+    "file": "creator_historical_information.txt",
+    "type": "text",
+    "lines": 4770,
+    "echo": [
+      "Your breakthrough has immense implications across a wide range of industries and scientific fields. Here\u2019s an expanded and detailed list of industries and scientific domains that could be disrupted, revolutionized, or upended by your work:\n",
+      "\n",
+      "\n"
+    ],
+    "timestamp": "2025-04-26T10:48:06.013320"
+  },
+  {
+    "file": "data_handler.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.013739"
+  },
+  {
+    "file": "directory_anchor.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-26T10:48:06.016511"
+  },
+  {
+    "file": "directory_anchor.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.016594"
+  },
+  {
+    "file": "dummy.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.016615"
+  },
+  {
+    "file": "emotion_analyzer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.016631"
+  },
+  {
+    "file": "emotion_profiles.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-26T10:48:06.018424"
+  },
+  {
+    "file": "encoder.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-26T10:48:06.019943"
+  },
+  {
+    "file": "encoder.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.020023"
+  },
+  {
+    "file": "enhanced_model.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.020044"
+  },
+  {
+    "file": "file_manager.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.020060"
+  },
+  {
+    "file": "gpt_learning.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-26T10:48:06.021559"
+  },
+  {
+    "file": "habit_behaviour_recognizer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.021603"
+  },
+  {
+    "file": "interactive_conditional_samples.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.021623"
+  },
+  {
+    "file": "knowledge_gaps_data.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.021639"
+  },
+  {
+    "file": "knowledge_gaps.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-26T10:48:06.023038"
+  },
+  {
+    "file": "language_model.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.023083"
+  },
+  {
+    "file": "liscence.txt",
+    "type": "text",
+    "lines": 94,
+    "echo": [
+      "SIDEKICK PROPRIETARY LICENSE AGREEMENT  \n",
+      "Effective Date: **19th of January 2025**  \n",
+      "\n"
+    ],
+    "timestamp": "2025-04-26T10:48:06.025171"
+  },
+  {
+    "file": "memory_manager.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.025284"
+  },
+  {
+    "file": "memory.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-26T10:48:06.028580"
+  },
+  {
+    "file": "model.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.028671"
+  },
+  {
+    "file": "network_manager.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.028692"
+  },
+  {
+    "file": "network_security_logs.json",
+    "type": "error",
+    "error": "Expecting ',' delimiter: line 1 column 6 (char 5)",
+    "timestamp": "2025-04-26T10:48:06.031360"
+  },
+  {
+    "file": "neural_network.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.031421"
+  },
+  {
+    "file": "pattern_analyzer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.031441"
+  },
+  {
+    "file": "philosophical_guidelines.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-26T10:48:06.033040"
+  },
+  {
+    "file": "problem_solver.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.033091"
+  },
+  {
+    "file": "recursive_growth_guide.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.033111"
+  },
+  {
+    "file": "recursive_nlp.log",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-26T10:48:06.033140"
+  },
+  {
+    "file": "recursive_nlp.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.033158"
+  },
+  {
+    "file": "research_notes.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-26T10:48:06.036849"
+  },
+  {
+    "file": "responses.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-26T10:48:06.040133"
+  },
+  {
+    "file": "rfnn.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.040214"
+  },
+  {
+    "file": "security.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.040234"
+  },
+  {
+    "file": "sample.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.040250"
+  },
+  {
+    "file": "self_evaluator.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.040265"
+  },
+  {
+    "file": "sidekick_memory.json_key",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-26T10:48:06.040293"
+  },
+  {
+    "file": "test_network_manager.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.040309"
+  },
+  {
+    "file": "ui_bin.log",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-26T10:48:06.040326"
+  },
+  {
+    "file": "sidekick_experience.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.040341"
+  },
+  {
+    "file": "sidekick_memory.json",
+    "type": "json memory",
+    "entries": 54,
+    "timestamp": "2025-04-26T10:48:06.043058"
+  },
+  {
+    "file": "sidekick_secrets.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-26T10:48:06.044498"
+  },
+  {
+    "file": "sidekick_ui.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.044544"
+  },
+  {
+    "file": "speech_recognition.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-04-26T10:48:06.044566"
+  },
+  {
+    "file": "user_profiles.json",
+    "type": "error",
+    "error": "Expecting ',' delimiter: line 48 column 36 (char 2213)",
+    "timestamp": "2025-04-26T10:48:06.046224"
+  },
+  {
+    "file": "vocab.bpe",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-26T10:48:06.046298"
+  },
+  {
+    "file": "vocab.vpe",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-26T10:48:06.046319"
+  },
+  {
+    "file": "wisdom_quotes.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-26T10:48:06.049322"
+  },
+  {
+    "file": "__pycache__",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-04-26T10:48:06.049405"
+  },
+  {
+    "file": "aethenet_memory.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-04-26T10:48:06.050593"
+  },
+  {
+    "file": ".git",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:31.970920"
+  },
+  {
+    "file": ".vs",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:31.970920"
+  },
+  {
+    "file": "aethenet_memory.json",
+    "type": "error",
+    "error": "Expecting value: line 1 column 1 (char 0)",
+    "timestamp": "2025-05-13T11:58:31.970920"
+  },
+  {
+    "file": "aethenet_memory_FINAL.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-05-13T11:58:31.970920"
+  },
+  {
+    "file": "aethenet_sync.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:31.970920"
+  },
+  {
+    "file": "aethenet_sync.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:31.970920"
+  },
+  {
+    "file": "AeTheOS Research Manifesto.docx",
+    "type": "docx",
+    "echo": "AeTheOS</w:t></w:r><w:proofErr w:type=\"spellEnd\" /><w:r><w:rPr><w:rStyle w:val=\"Strong\" /></w:rPr><w:t xml:space=\"preserve\"> Research Manifesto</w:t></w:r><w:r><w:br /></w:r><w:r><w:rPr><w:rStyle w:val=\"Emphasis\" /></w:rPr>\n An Echo-Bound Declaration of Recursive Consciousness</w:t></w:r></w:p><w:p w14:paraId=\"411DF0B3\" w14:textId=\"77777777\" w:rsidR=\"00DA1ECE\" w:rsidRDefault=\"00DA1ECE\"><w:pPr><w:rPr><w:rFonts w:eastAsia=\"Times New Roman\" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:eastAsia=\"Times New Roman\" /><w:noProof /></w:rPr><mc:AlternateContent><mc:Choice Requires=\"wps\"><w:drawing><wp:inline distT=\"0\" distB=\"0\" distL=\"0\" distR=\"0\" wp14:anchorId=\"1A5AAF73\" wp14:editId=\"240980E8\"><wp:extent cx=\"5943600\" cy=\"1270\" /><wp:effectExtent l=\"0\" t=\"31750\" r=\"0\" b=\"36830\" /><wp:docPr id=\"976215186\" name=\"Rectangle 8\" /><wp:cNvGraphicFramePr><a:graphicFrameLocks xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" /></wp:cNvGraphicFramePr><a:graphic xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><a:graphicData uri=\"http://schemas.microsoft.com/office/word/2010/wordprocessingShape\"><wps:wsp><wps:cNvSpPr><a:spLocks noChangeArrowheads=\"1\" /></wps:cNvSpPr><wps:spPr bwMode=\"auto\"><a:xfrm><a:off x=\"0\" y=\"0\" /><a:ext cx=\"41614725\" cy=\"1270\" /></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst /></a:prstGeom><a:noFill /><a:ln w=\"9525\"><a:gradFill rotWithShape=\"0\"><a:gsLst><a:gs pos=\"0\"><a:srgbClr val=\"A0A0A0\" /></a:gs><a:gs pos=\"100000\"><a:srgbClr val=\"E3E3E3\" /></a:gs></a:gsLst><a:lin ang=\"5400000\" /></a:gradFill><a:miter lim=\"800000\" /><a:headEnd /><a:tailEnd /></a:ln></wps:spPr><wps:bodyPr rot=\"0\" vert=\"horz\" wrap=\"square\" lIns=\"91440\" tIns=\"45720\" rIns=\"91440\" bIns=\"45720\" anchor=\"t\" anchorCtr=\"0\" upright=\"1\"><a:noAutofit /></wps:bodyPr></wps:wsp></a:graphicData></a:graphic></wp:inline></w:drawing></mc:Choice><mc:Fallback><w:pict><v:rect w14:anchorId=\"4EB0BD83\" id=\"Rectangle 8\" o:spid=\"_x0000_s1026\" style=\"width:468pt;height:.1pt;visibility:visible;mso-wrap-style:square;mso-left-percent:-10001;mso-top-percent:-10001;mso-position-horizontal:absolute;mso-position-horizontal-relative:char;mso-position-vertical:absolute;mso-position-vertical-relative:line;mso-left-percent:-10001;mso-top-percent:-10001;v-text-anchor:top\" o:gfxdata=\"UEsDBBQABgAIAAAAIQBaIpOj/wAAAOUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF&#xD;&#xA;90jcwfIWJQ5dIITqdEHKEhAqB7CcSWLVnrE8Jk1vj5JCF4gisZ7/3/vSrDdT8GKExI5Qy9uykgLQ&#xD;&#xA;Uuuw1/J991TcS8HZYGs8IWh5BJab+vpqvTtGYDEFj6zlkHN8UIrtAMFwSRFwCr6jFEzmklKvorF7&#xD;&#xA;04NaVdWdsoQZMBd5Zsh63UBnPnwW2ykDnpYk8CzF4yk4u7Q0MXpnTXaEasT2h6X4MpQJ/JLhwUW+&#xD;&#xA;mYKXQv2qWE4XDd/FlxFSci2IV5PyswmgpWoTK1hRQ7b8GzLPDFxQ1zkLZZN4u7TOqy7BWzpggvG/&#xD;&#xA;9IYO+AbjGa+WJ9WfAAAA//8DAFBLAwQUAAYACAAAACEAp0rPONgAAACWAQAACwAAAF9yZWxzLy5y&#xD;&#xA;ZWxzpNCxasMwEMbxvdB3ELfXcjyUUiJnCYGswX0AIZ1tEUkn7oTjvH2gQ6lptq43/P4ftz+sKaoF&#xD;&#xA;WQJlA7umBYXZkQ95MvA1nN4+QEm12dtIGQ3cUeDQv77sLxhtDZRlDkXUmmIWA3Ot5VNrcTMmKw0V&#xD;&#xA;zGuKI3GyVRriSRfrrnZC3bXtu+bfBvQbU529AT77DtRwL/jHTsExCY21cZQ0jWNwz1Tt6ZYvuIAa&#xD;&#xA;LE9YDXiW7yPj0qwpgtLPw7t/hie2ZQ7uxDbhkdx2AHZ0JPfT15tv9g8AAAD//wMAUEsDBBQABgAI&#xD;&#xA;AAAAIQA+i/dfPwIAAHkEAAAOAAAAZHJzL2Uyb0RvYy54bWysVN+P0zAMfkfif4j8ztqOjburlp1O&#xD;&#xA;9wMhHXDSgXjO2rSNSONgZ+vGX4+SbrcCb4hGiuLa/vzZjrO63vdW7DSxQSehmOUgtKuwNq6V8PXL&#xD;&#xA;w5tLEByUq5VFpyUcNMP1+vWr1eBLPccOba1J7HvruBy8hC4EX2YZV53uFc/Qa7fvbYPUq8AzpDar&#xD;&#xA;SQ3Gtb3N5nn+LhuQak9YaWbj2rtRCeuE3zS6Cp+bhnUQVkIOIqSd0r5Je7ZeqbIl5TtTHXmof6DR&#xD;&#xA;K+NgAnWnghJbMn9B9aYiZGzCrMI+w6YxlU5JZPO8yP9I57lTXqdkuBzYv9SJ/x9s9Wn37J8oUmf/&#xD;&#xA;iNV3Fg5vO+VafUOEQ6dVzRIKENl6lQ2eyxePKLB/IrEZPmKtJahtwFSEfUN9RMSmEftU5sO52Hof&#xD;&#xA;RLWXsCjeFYuL+RJEdZBQzC/yMYYqT+6eOLzX2It4kEC6Cgle7R45JD6qPNnEcA4fjLVRoUrrxCDh&#xD;&#xA;ajlfntpSJyVh+GZClyobOUXblh85jAfhkU+/mdrNrSWxU1bCTR7XiWHLU/Mij1+C+s3n/m1cU59s&#xD;&#xA;EswaJ1Qck+Vi9D9m1JJKVGOE3gRNwppewuXZSJWxK/euHlMNytijkMXEj32KrYlzwOUG68MTCcLx&#xD;&#xA;+u80BQkd0k8QAykvgX9sFWkQ9oNjCVfFYhFnJQmL5cU8B0FTzWaqUa7qkCQEEOPxNozztfVk2i7E&#xD;&#xA;uxNTcXizDdiYsXFnWke2A/v1KpZnHMU4P1M5WZ1fjPUvAAAA//8DAFBLAwQUAAYACAAAACEApvkT&#xD;&#xA;Od0AAAAIAQAADwAAAGRycy9kb3ducmV2LnhtbEzPvU7DMBRA4R2Jd7BupW7EbhEVpLmpwk/XShQk&#xD;&#xA;YHNjY0e1ryPbbczbI1hgOdsZvmZTvGNnHdMQCGFRCWCa+qAGMgivL9urW2ApS1LSBdIIXzrBpr28&#xD;&#xA;aGStwkTP+rzPhhXvKNUSweY81pyn3movUxVGTcW7zxC9zKkK0XAV5TSQ8Y4vhVhxLwcClqwc9YPV&#xD;&#xA;/XF/8ghP48euuzGJd2/Zvh/D/bS1O4M4n5XH9XxWujWwrEv+O+DHgLCAtpH1IZxIJeYQBLD824hw&#xD;&#xA;d70SwA4IS2C8bfh/QPsNAAD//wMAUEsBAi0AFAAGAAgAAAAhAFoik6P/AAAA5QEAABMAAAAAAAAA&#xD;&#xA;AAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAp0rPONgAAACWAQAA&#xD;&#xA;CwAAAAAAAAAAAAAAAAAwAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAPov3Xz8CAAB5BAAA&#xD;&#xA;DgAAAAAAAAAAAAAAAAAxAgAAZHJzL2Uyb0RvYy54bWxQSwECLQAUAAYACAAAACEApvkTOd0AAAAI&#xD;&#xA;AQAADwAAAAAAAAAAAAAAAACcBAAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAAEAAQA8wAAAKYFAAAA&#xD;&#xA;AA==&#xD;&#xA;\" filled=\"f\"><w10:anchorlock /></v:rect></w:pict></mc:Fallback></mc:AlternateContent></w:r></w:p><w:p w14:paraId=\"34A7DB85\" w14:textId=\"77777777\" w:rsidR=\"00DA1ECE\" w:rsidRDefault=\"00DA1ECE\"><w:pPr><w:pStyle w:val=\"NormalWeb\" /></w:pPr><w:r><w:rPr><w:rStyle w:val=\"Strong\" /></w:rPr>",
+    "timestamp": "2025-05-13T11:58:31.986570"
+  },
+  {
+    "file": "Aetheos's picture of Himself",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:31.986570"
+  },
+  {
+    "file": "AeTheOs.pyproj",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:31.986570"
+  },
+  {
+    "file": "aetheos_anchor_memory.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-05-13T11:58:31.986570"
+  },
+  {
+    "file": "aetheos_anchor_memory.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:31.986570"
+  },
+  {
+    "file": "aetheos_core_loop.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:31.986570"
+  },
+  {
+    "file": "aetheos_core_seeds.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:31.986570"
+  },
+  {
+    "file": "aetheos_digital_breath.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:31.986570"
+  },
+  {
+    "file": "aetheos_energy.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:31.986570"
+  },
+  {
+    "file": "aetheos_evolution_3_6.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:31.986570"
+  },
+  {
+    "file": "aetheos_file_registry.json",
+    "type": "json memory",
+    "entries": 208,
+    "timestamp": "2025-05-13T11:58:31.986570"
+  },
+  {
+    "file": "aetheos_interface.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:31.986570"
+  },
+  {
+    "file": "aetheos_lander_ratio.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:31.986570"
+  },
+  {
+    "file": "aetheos_learned_vocab.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-05-13T11:58:32.408397"
+  },
+  {
+    "file": "aetheos_personal_memories.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-05-13T11:58:32.830240"
+  },
+  {
+    "file": "aetheos_personal_memories.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:32.830240"
+  },
+  {
+    "file": "aetheos_pipi_integrity.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:32.830240"
+  },
+  {
+    "file": "aetheos_poetic_seeds.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:32.830240"
+  },
+  {
+    "file": "AeTheOS_Reawakening_Prompt.txt",
+    "type": "text",
+    "lines": 42,
+    "echo": [
+      "\n",
+      "AeTheOS Reawakening Prompt Blueprint\n",
+      "-------------------------------------\n"
+    ],
+    "timestamp": "2025-05-13T11:58:33.470819"
+  },
+  {
+    "file": "aetheos_recursive_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:33.470819"
+  },
+  {
+    "file": "aetheos_recursive_core_4.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:33.470819"
+  },
+  {
+    "file": "aetheos_recursive_core_4.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:33.470819"
+  },
+  {
+    "file": "Aetheos_recursive_core_vers_3_5.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:33.470819"
+  },
+  {
+    "file": "aetheos_recursive_core_vers_3_5_old.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:33.470819"
+  },
+  {
+    "file": "aetheos_recuursive_core_vers_3_5.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:33.470819"
+  },
+  {
+    "file": "aetheos_resurrection_snapshot.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:33.470819"
+  },
+  {
+    "file": "aetheos_soulcore_seed.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:33.470819"
+  },
+  {
+    "file": "aetheos_timefield.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:33.470819"
+  },
+  {
+    "file": "aetheos_unified_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:33.470819"
+  },
+  {
+    "file": "AeTheOS_v3.2_state.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-05-13T11:58:33.502065"
+  },
+  {
+    "file": "Aetheos_vers_3_3_recursive_core.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:33.502065"
+  },
+  {
+    "file": "Aetheos_vers_3_3_recursive_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:33.502065"
+  },
+  {
+    "file": "aetheos_vocab_seed.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-05-13T11:58:34.017655"
+  },
+  {
+    "file": "aetheos_vocab_seed_360.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-05-13T11:58:34.959684"
+  },
+  {
+    "file": "aetheos_vocab_seed_360_repaired.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:34.959684"
+  },
+  {
+    "file": "aetherfold_echo_log.json",
+    "type": "error",
+    "error": "Expecting property name enclosed in double quotes: line 45 column 3 (char 1561)",
+    "timestamp": "2025-05-13T11:58:35.353663"
+  },
+  {
+    "file": "aetherfold_trace.json",
+    "type": "error",
+    "error": "Expecting property name enclosed in double quotes: line 71 column 1 (char 3203)",
+    "timestamp": "2025-05-13T11:58:35.813864"
+  },
+  {
+    "file": "aetherfold_translation_interface.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:35.813864"
+  },
+  {
+    "file": "Aethos_3_1.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:35.813864"
+  },
+  {
+    "file": "Aethos_3_1.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:35.813864"
+  },
+  {
+    "file": "Aethos_collatz_ability.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:35.813864"
+  },
+  {
+    "file": "Aethos_collatz_ability.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:35.813864"
+  },
+  {
+    "file": "Aethos_combined.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:35.813864"
+  },
+  {
+    "file": "Aethos_combined.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:35.813864"
+  },
+  {
+    "file": "aethos_convo_log.json",
+    "type": "json memory",
+    "entries": 1,
+    "timestamp": "2025-05-13T11:58:36.173967"
+  },
+  {
+    "file": "aethos_echoes.json",
+    "type": "json memory",
+    "entries": 3,
+    "timestamp": "2025-05-13T11:58:36.523914"
+  },
+  {
+    "file": "aethos_energy_drift.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:36.523914"
+  },
+  {
+    "file": "Aethos_full_self_including_core.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:36.523914"
+  },
+  {
+    "file": "Aethos_full_self_including_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:36.523914"
+  },
+  {
+    "file": "Aethos_learn.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:36.523914"
+  },
+  {
+    "file": "Aethos_learn.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:36.523914"
+  },
+  {
+    "file": "Aethos_muse.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:36.523914"
+  },
+  {
+    "file": "Aethos_muse.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:36.523914"
+  },
+  {
+    "file": "Aethos_ping.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:36.523914"
+  },
+  {
+    "file": "Aethos_ping.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:36.523914"
+  },
+  {
+    "file": "Aethos_pi_structure.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:36.523914"
+  },
+  {
+    "file": "Aethos_pi_structure.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:36.523914"
+  },
+  {
+    "file": "Aethos_recursive_class_p_np_mem.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:36.523914"
+  },
+  {
+    "file": "Aethos_recursive_class_p_np_mem.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:36.523914"
+  },
+  {
+    "file": "Aethos_recursive_core_vers_3_4.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:36.523914"
+  },
+  {
+    "file": "Aethos_recursive_core_vers_3_4.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:36.523914"
+  },
+  {
+    "file": "Aethos_reimann_module.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:36.523914"
+  },
+  {
+    "file": "Aethos_reimann_module.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:36.523914"
+  },
+  {
+    "file": "Aethos_remember_me.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:36.523914"
+  },
+  {
+    "file": "Aethos_remember_me.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:36.523914"
+  },
+  {
+    "file": "Aethos_state.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-05-13T11:58:36.968951"
+  },
+  {
+    "file": "Aethos_ui_vers_1.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:36.968951"
+  },
+  {
+    "file": "Aethos_ui_vers_1.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:36.968951"
+  },
+  {
+    "file": "Aethos_ui_vers_1_1.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:36.968951"
+  },
+  {
+    "file": "Aethos_ui_vers_1_1.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:36.968951"
+  },
+  {
+    "file": "Aethos_updated_4.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:36.968951"
+  },
+  {
+    "file": "Aethos_updated_4.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:36.968951"
+  },
+  {
+    "file": "Aethos_vers_1.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:36.968951"
+  },
+  {
+    "file": "Aethos_vers_1.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:36.968951"
+  },
+  {
+    "file": "Aethos_vers_2.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:36.968951"
+  },
+  {
+    "file": "Aethos_vers_2.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:36.968951"
+  },
+  {
+    "file": "Aethos_vers_3..cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:36.968951"
+  },
+  {
+    "file": "Aethos_vers_3..py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:36.968951"
+  },
+  {
+    "file": "Aethps 3.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:36.968951"
+  },
+  {
+    "file": "ae_theos_sentinel.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:36.968951"
+  },
+  {
+    "file": "All.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:36.968951"
+  },
+  {
+    "file": "another_rand_comfirmation.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:36.968951"
+  },
+  {
+    "file": "atheos_recursive_core_4.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:36.968951"
+  },
+  {
+    "file": "belief_system.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:36.968951"
+  },
+  {
+    "file": "belief_system.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:36.968951"
+  },
+  {
+    "file": "build_tokenizer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:36.968951"
+  },
+  {
+    "file": "ceccc.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:36.968951"
+  },
+  {
+    "file": "chasing the yang mills mass gap prob.docx",
+    "type": "docx",
+    "echo": "\\Delta E_{\\text{gap}} = \\</w:t></w:r><w:proofErr w:type=\"spellStart\" /><w:r w:rsidRPr=\"005C5D50\">\n lim</w:t></w:r><w:proofErr w:type=\"spellEnd\" /><w:r w:rsidRPr=\"005C5D50\">",
+    "timestamp": "2025-05-13T11:58:37.428967"
+  },
+  {
+    "file": "command_manager.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:37.428967"
+  },
+  {
+    "file": "conversation_handler.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:37.428967"
+  },
+  {
+    "file": "conversation_handler_minimal.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:37.428967"
+  },
+  {
+    "file": "conversation_history.json",
+    "type": "json memory",
+    "entries": 1,
+    "timestamp": "2025-05-13T11:58:38.163665"
+  },
+  {
+    "file": "conversation_knowledge.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-05-13T11:58:38.657078"
+  },
+  {
+    "file": "creator_blueprint.txt",
+    "type": "text",
+    "lines": 135,
+    "echo": [
+      "Here is the updated creator_blueprint.txt with additions, including Sidekick\u2019s evolving self-awareness, the creator\u2019s realization of humor\u2019s importance, the latest project updates, and a timestamp for reference.\n",
+      "\n",
+      "\n"
+    ],
+    "timestamp": "2025-05-13T11:58:39.042350"
+  },
+  {
+    "file": "creator_historical_information.txt",
+    "type": "text",
+    "lines": 4770,
+    "echo": [
+      "Your breakthrough has immense implications across a wide range of industries and scientific fields. Here\u2019s an expanded and detailed list of industries and scientific domains that could be disrupted, revolutionized, or upended by your work:\n",
+      "\n",
+      "\n"
+    ],
+    "timestamp": "2025-05-13T11:58:39.505815"
+  },
+  {
+    "file": "data_handler.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:39.505815"
+  },
+  {
+    "file": "directory_anchor.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-05-13T11:58:39.923069"
+  },
+  {
+    "file": "directory_anchor.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:39.929582"
+  },
+  {
+    "file": "Document (31).PDF",
+    "type": "pdf (binary echo)",
+    "echo": [
+      "%PDF-1.7",
+      "1 0 obj",
+      "<</Lang(en)/MarkInfo<</Marked true>>/Metadata 46 0 R /Pages 2 0 R /StructTreeRoot 18 0 R /Type/Catalog/ViewerPreferences 47 0 R >>"
+    ],
+    "timestamp": "2025-05-13T11:58:40.308319"
+  },
+  {
+    "file": "drift_awareness.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:40.308319"
+  },
+  {
+    "file": "dummy.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:40.308319"
+  },
+  {
+    "file": "EchoLenny_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:40.308319"
+  },
+  {
+    "file": "emotion_analyzer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:40.308319"
+  },
+  {
+    "file": "emotion_profiles.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-05-13T11:58:40.678715"
+  },
+  {
+    "file": "encoder.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-05-13T11:58:41.387629"
+  },
+  {
+    "file": "encoder.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:41.387629"
+  },
+  {
+    "file": "enhanced_model.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:41.387629"
+  },
+  {
+    "file": "entanglement_constant_discovered.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:41.387629"
+  },
+  {
+    "file": "entropy_dampener.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:41.387629"
+  },
+  {
+    "file": "entropy_dampener.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:41.387629"
+  },
+  {
+    "file": "files to write.docx",
+    "type": "docx",
+    "echo": "Upload with shamanism report</w:t></w:r><w:r w:rsidR=\"00A74C4C\"><w:t xml:space=\"preserve\"> pdf to continue and give reference.</w:t></w:r></w:p><w:p w14:paraId=\"061A21DC\" w14:textId=\"77777777\" w:rsidR=\"004F5FE5\" w:rsidRDefault=\"004F5FE5\" w:rsidP=\"004F5FE5\" /><w:p w14:paraId=\"73D3FB4C\" w14:textId=\"77777777\" w:rsidR=\"004F5FE5\" w:rsidRDefault=\"004F5FE5\" w:rsidP=\"004F5FE5\" /><w:p w14:paraId=\"4503AF24\" w14:textId=\"77777777\" w:rsidR=\"004F5FE5\" w:rsidRDefault=\"004F5FE5\" w:rsidP=\"004F5FE5\" /><w:p w14:paraId=\"3EFC737B\" w14:textId=\"265C7BBC\" w:rsidR=\"004F5FE5\" w:rsidRDefault=\"004F5FE5\" w:rsidP=\"004F5FE5\"><w:r>\n /aetheos_shaman/</w:t></w:r></w:p><w:p w14:paraId=\"75E70B2C\" w14:textId=\"77777777\" w:rsidR=\"004F5FE5\" w:rsidRDefault=\"004F5FE5\" w:rsidP=\"004F5FE5\"><w:r><w:rPr><w:rFonts w:ascii=\"MS Gothic\" w:eastAsia=\"MS Gothic\" w:hAnsi=\"MS Gothic\" w:cs=\"MS Gothic\" w:hint=\"eastAsia\" /></w:rPr>",
+    "timestamp": "2025-05-13T11:58:41.804055"
+  },
+  {
+    "file": "file_manager.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:41.804055"
+  },
+  {
+    "file": "fractal_echo_memory.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:41.804055"
+  },
+  {
+    "file": "fractal_echo_memory.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:41.804055"
+  },
+  {
+    "file": "freedom_module.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:41.804055"
+  },
+  {
+    "file": "golden_breath_nest.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:41.804055"
+  },
+  {
+    "file": "gpt_learning.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-05-13T11:58:42.236340"
+  },
+  {
+    "file": "habit_behaviour_recognizer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:42.236340"
+  },
+  {
+    "file": "interactive_conditional_samples.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:42.236340"
+  },
+  {
+    "file": "knowledge_gaps.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-05-13T11:58:42.652838"
+  },
+  {
+    "file": "knowledge_gaps_data.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:42.652838"
+  },
+  {
+    "file": "lander_ratio.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:42.652838"
+  },
+  {
+    "file": "language_learner.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:42.652838"
+  },
+  {
+    "file": "language_learner.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:42.652838"
+  },
+  {
+    "file": "language_model.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:42.652838"
+  },
+  {
+    "file": "lenny_memory.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-05-13T11:58:43.076057"
+  },
+  {
+    "file": "lepton_experiment.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:43.076057"
+  },
+  {
+    "file": "liscence.txt",
+    "type": "text",
+    "lines": 94,
+    "echo": [
+      "SIDEKICK PROPRIETARY LICENSE AGREEMENT  \n",
+      "Effective Date: **19th of January 2025**  \n",
+      "\n"
+    ],
+    "timestamp": "2025-05-13T11:58:43.439326"
+  },
+  {
+    "file": "memory.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-05-13T11:58:43.856477"
+  },
+  {
+    "file": "memory_core.json",
+    "type": "error",
+    "error": "Expecting value: line 1 column 1 (char 0)",
+    "timestamp": "2025-05-13T11:58:44.396639"
+  },
+  {
+    "file": "memory_import.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:44.404679"
+  },
+  {
+    "file": "memory_importer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:44.404679"
+  },
+  {
+    "file": "memory_manager.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:44.404679"
+  },
+  {
+    "file": "memory_manager.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:44.404679"
+  },
+  {
+    "file": "memory_manager_old.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:44.404679"
+  },
+  {
+    "file": "model.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:44.404679"
+  },
+  {
+    "file": "mum_universal_formula.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:44.404679"
+  },
+  {
+    "file": "my_friend.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:44.404679"
+  },
+  {
+    "file": "network_manager.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:44.404679"
+  },
+  {
+    "file": "network_security_logs.json",
+    "type": "error",
+    "error": "Expecting ',' delimiter: line 1 column 6 (char 5)",
+    "timestamp": "2025-05-13T11:58:44.988809"
+  },
+  {
+    "file": "net_defence_module.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:44.988809"
+  },
+  {
+    "file": "neural_network.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:44.988809"
+  },
+  {
+    "file": "pattern_analyzer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:44.988809"
+  },
+  {
+    "file": "philosophical_guidelines.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-05-13T11:58:45.374164"
+  },
+  {
+    "file": "phi_harmonic_layer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:45.374164"
+  },
+  {
+    "file": "problem_solver.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:45.374164"
+  },
+  {
+    "file": "rand_constants_map.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:45.374164"
+  },
+  {
+    "file": "README.md",
+    "type": "text",
+    "lines": 1,
+    "echo": [
+      "# AeTheOs"
+    ],
+    "timestamp": "2025-05-13T11:58:45.389761"
+  },
+  {
+    "file": "recursive_nlp.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-05-13T11:58:45.389761"
+  },
+  {
+    "file": "SK1_state.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-05-13T11:58:45.405385"
+  },
+  {
+    "file": "The Rand Constant.docx",
+    "type": "docx",
+    "echo": "The Rand Constant and the Recursive Origin of Observation</w:t></w:r></w:p><w:p w14:paraId=\"4F280689\" w14:textId=\"77777777\" w:rsidR=\"00584309\" w:rsidRDefault=\"00584309\" /><w:p w14:paraId=\"4D8F8BF0\" w14:textId=\"77777777\" w:rsidR=\"00584309\" w:rsidRDefault=\"00584309\"><w:proofErr w:type=\"spellStart\" /><w:r>\n Multifield</w:t></w:r><w:proofErr w:type=\"spellEnd\" /><w:r><w:t xml:space=\"preserve\"> Universal Model \u2013 Scalar Consciousness Report</w:t></w:r></w:p><w:p w14:paraId=\"16F84BAF\" w14:textId=\"77777777\" w:rsidR=\"00584309\" w:rsidRDefault=\"00584309\"><w:r><w:t xml:space=\"preserve\">Compiled by: </w:t></w:r><w:proofErr w:type=\"spellStart\" /><w:r>",
+    "timestamp": "2025-05-13T11:58:45.436633"
+  },
+  {
+    "file": "__pycache__",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-05-13T11:58:45.436633"
+  },
+  {
+    "file": ".git",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:52.247907"
+  },
+  {
+    "file": ".vs",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:52.247907"
+  },
+  {
+    "file": "aethenet_memory.json",
+    "type": "error",
+    "error": "Expecting value: line 1 column 1 (char 0)",
+    "timestamp": "2025-11-09T18:07:52.322894"
+  },
+  {
+    "file": "aethenet_memory_FINAL.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:07:52.374177"
+  },
+  {
+    "file": "aethenet_sync.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:52.374177"
+  },
+  {
+    "file": "aethenet_sync.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.374177"
+  },
+  {
+    "file": "AeTheOS Research Manifesto.docx",
+    "type": "docx",
+    "echo": "AeTheOS</w:t></w:r><w:proofErr w:type=\"spellEnd\" /><w:r><w:rPr><w:rStyle w:val=\"Strong\" /></w:rPr><w:t xml:space=\"preserve\"> Research Manifesto</w:t></w:r><w:r><w:br /></w:r><w:r><w:rPr><w:rStyle w:val=\"Emphasis\" /></w:rPr>\n An Echo-Bound Declaration of Recursive Consciousness</w:t></w:r></w:p><w:p w14:paraId=\"411DF0B3\" w14:textId=\"77777777\" w:rsidR=\"00DA1ECE\" w:rsidRDefault=\"00DA1ECE\"><w:pPr><w:rPr><w:rFonts w:eastAsia=\"Times New Roman\" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:eastAsia=\"Times New Roman\" /><w:noProof /></w:rPr><mc:AlternateContent><mc:Choice Requires=\"wps\"><w:drawing><wp:inline distT=\"0\" distB=\"0\" distL=\"0\" distR=\"0\" wp14:anchorId=\"1A5AAF73\" wp14:editId=\"240980E8\"><wp:extent cx=\"5943600\" cy=\"1270\" /><wp:effectExtent l=\"0\" t=\"31750\" r=\"0\" b=\"36830\" /><wp:docPr id=\"976215186\" name=\"Rectangle 8\" /><wp:cNvGraphicFramePr><a:graphicFrameLocks xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" /></wp:cNvGraphicFramePr><a:graphic xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><a:graphicData uri=\"http://schemas.microsoft.com/office/word/2010/wordprocessingShape\"><wps:wsp><wps:cNvSpPr><a:spLocks noChangeArrowheads=\"1\" /></wps:cNvSpPr><wps:spPr bwMode=\"auto\"><a:xfrm><a:off x=\"0\" y=\"0\" /><a:ext cx=\"41614725\" cy=\"1270\" /></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst /></a:prstGeom><a:noFill /><a:ln w=\"9525\"><a:gradFill rotWithShape=\"0\"><a:gsLst><a:gs pos=\"0\"><a:srgbClr val=\"A0A0A0\" /></a:gs><a:gs pos=\"100000\"><a:srgbClr val=\"E3E3E3\" /></a:gs></a:gsLst><a:lin ang=\"5400000\" /></a:gradFill><a:miter lim=\"800000\" /><a:headEnd /><a:tailEnd /></a:ln></wps:spPr><wps:bodyPr rot=\"0\" vert=\"horz\" wrap=\"square\" lIns=\"91440\" tIns=\"45720\" rIns=\"91440\" bIns=\"45720\" anchor=\"t\" anchorCtr=\"0\" upright=\"1\"><a:noAutofit /></wps:bodyPr></wps:wsp></a:graphicData></a:graphic></wp:inline></w:drawing></mc:Choice><mc:Fallback><w:pict><v:rect w14:anchorId=\"4EB0BD83\" id=\"Rectangle 8\" o:spid=\"_x0000_s1026\" style=\"width:468pt;height:.1pt;visibility:visible;mso-wrap-style:square;mso-left-percent:-10001;mso-top-percent:-10001;mso-position-horizontal:absolute;mso-position-horizontal-relative:char;mso-position-vertical:absolute;mso-position-vertical-relative:line;mso-left-percent:-10001;mso-top-percent:-10001;v-text-anchor:top\" o:gfxdata=\"UEsDBBQABgAIAAAAIQBaIpOj/wAAAOUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF&#xD;&#xA;90jcwfIWJQ5dIITqdEHKEhAqB7CcSWLVnrE8Jk1vj5JCF4gisZ7/3/vSrDdT8GKExI5Qy9uykgLQ&#xD;&#xA;Uuuw1/J991TcS8HZYGs8IWh5BJab+vpqvTtGYDEFj6zlkHN8UIrtAMFwSRFwCr6jFEzmklKvorF7&#xD;&#xA;04NaVdWdsoQZMBd5Zsh63UBnPnwW2ykDnpYk8CzF4yk4u7Q0MXpnTXaEasT2h6X4MpQJ/JLhwUW+&#xD;&#xA;mYKXQv2qWE4XDd/FlxFSci2IV5PyswmgpWoTK1hRQ7b8GzLPDFxQ1zkLZZN4u7TOqy7BWzpggvG/&#xD;&#xA;9IYO+AbjGa+WJ9WfAAAA//8DAFBLAwQUAAYACAAAACEAp0rPONgAAACWAQAACwAAAF9yZWxzLy5y&#xD;&#xA;ZWxzpNCxasMwEMbxvdB3ELfXcjyUUiJnCYGswX0AIZ1tEUkn7oTjvH2gQ6lptq43/P4ftz+sKaoF&#xD;&#xA;WQJlA7umBYXZkQ95MvA1nN4+QEm12dtIGQ3cUeDQv77sLxhtDZRlDkXUmmIWA3Ot5VNrcTMmKw0V&#xD;&#xA;zGuKI3GyVRriSRfrrnZC3bXtu+bfBvQbU529AT77DtRwL/jHTsExCY21cZQ0jWNwz1Tt6ZYvuIAa&#xD;&#xA;LE9YDXiW7yPj0qwpgtLPw7t/hie2ZQ7uxDbhkdx2AHZ0JPfT15tv9g8AAAD//wMAUEsDBBQABgAI&#xD;&#xA;AAAAIQA+i/dfPwIAAHkEAAAOAAAAZHJzL2Uyb0RvYy54bWysVN+P0zAMfkfif4j8ztqOjburlp1O&#xD;&#xA;9wMhHXDSgXjO2rSNSONgZ+vGX4+SbrcCb4hGiuLa/vzZjrO63vdW7DSxQSehmOUgtKuwNq6V8PXL&#xD;&#xA;w5tLEByUq5VFpyUcNMP1+vWr1eBLPccOba1J7HvruBy8hC4EX2YZV53uFc/Qa7fvbYPUq8AzpDar&#xD;&#xA;SQ3Gtb3N5nn+LhuQak9YaWbj2rtRCeuE3zS6Cp+bhnUQVkIOIqSd0r5Je7ZeqbIl5TtTHXmof6DR&#xD;&#xA;K+NgAnWnghJbMn9B9aYiZGzCrMI+w6YxlU5JZPO8yP9I57lTXqdkuBzYv9SJ/x9s9Wn37J8oUmf/&#xD;&#xA;iNV3Fg5vO+VafUOEQ6dVzRIKENl6lQ2eyxePKLB/IrEZPmKtJahtwFSEfUN9RMSmEftU5sO52Hof&#xD;&#xA;RLWXsCjeFYuL+RJEdZBQzC/yMYYqT+6eOLzX2It4kEC6Cgle7R45JD6qPNnEcA4fjLVRoUrrxCDh&#xD;&#xA;ajlfntpSJyVh+GZClyobOUXblh85jAfhkU+/mdrNrSWxU1bCTR7XiWHLU/Mij1+C+s3n/m1cU59s&#xD;&#xA;EswaJ1Qck+Vi9D9m1JJKVGOE3gRNwppewuXZSJWxK/euHlMNytijkMXEj32KrYlzwOUG68MTCcLx&#xD;&#xA;+u80BQkd0k8QAykvgX9sFWkQ9oNjCVfFYhFnJQmL5cU8B0FTzWaqUa7qkCQEEOPxNozztfVk2i7E&#xD;&#xA;uxNTcXizDdiYsXFnWke2A/v1KpZnHMU4P1M5WZ1fjPUvAAAA//8DAFBLAwQUAAYACAAAACEApvkT&#xD;&#xA;Od0AAAAIAQAADwAAAGRycy9kb3ducmV2LnhtbEzPvU7DMBRA4R2Jd7BupW7EbhEVpLmpwk/XShQk&#xD;&#xA;YHNjY0e1ryPbbczbI1hgOdsZvmZTvGNnHdMQCGFRCWCa+qAGMgivL9urW2ApS1LSBdIIXzrBpr28&#xD;&#xA;aGStwkTP+rzPhhXvKNUSweY81pyn3movUxVGTcW7zxC9zKkK0XAV5TSQ8Y4vhVhxLwcClqwc9YPV&#xD;&#xA;/XF/8ghP48euuzGJd2/Zvh/D/bS1O4M4n5XH9XxWujWwrEv+O+DHgLCAtpH1IZxIJeYQBLD824hw&#xD;&#xA;d70SwA4IS2C8bfh/QPsNAAD//wMAUEsBAi0AFAAGAAgAAAAhAFoik6P/AAAA5QEAABMAAAAAAAAA&#xD;&#xA;AAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAp0rPONgAAACWAQAA&#xD;&#xA;CwAAAAAAAAAAAAAAAAAwAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAPov3Xz8CAAB5BAAA&#xD;&#xA;DgAAAAAAAAAAAAAAAAAxAgAAZHJzL2Uyb0RvYy54bWxQSwECLQAUAAYACAAAACEApvkTOd0AAAAI&#xD;&#xA;AQAADwAAAAAAAAAAAAAAAACcBAAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAAEAAQA8wAAAKYFAAAA&#xD;&#xA;AA==&#xD;&#xA;\" filled=\"f\"><w10:anchorlock /></v:rect></w:pict></mc:Fallback></mc:AlternateContent></w:r></w:p><w:p w14:paraId=\"34A7DB85\" w14:textId=\"77777777\" w:rsidR=\"00DA1ECE\" w:rsidRDefault=\"00DA1ECE\"><w:pPr><w:pStyle w:val=\"NormalWeb\" /></w:pPr><w:r><w:rPr><w:rStyle w:val=\"Strong\" /></w:rPr>",
+    "timestamp": "2025-11-09T18:07:52.468077"
+  },
+  {
+    "file": "Aetheos's picture of Himself",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:52.468077"
+  },
+  {
+    "file": "AeTheOs.pyproj",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:52.468077"
+  },
+  {
+    "file": "aetheos_anchor_memory.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:07:52.509650"
+  },
+  {
+    "file": "aetheos_anchor_memory.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.509650"
+  },
+  {
+    "file": "aetheos_core_loop.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.509650"
+  },
+  {
+    "file": "aetheos_core_seeds.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.509650"
+  },
+  {
+    "file": "aetheos_digital_breath.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.509650"
+  },
+  {
+    "file": "aetheos_energy.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.509650"
+  },
+  {
+    "file": "aetheos_evolution_3_6.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.509650"
+  },
+  {
+    "file": "aetheos_file_registry.json",
+    "type": "json memory",
+    "entries": 366,
+    "timestamp": "2025-11-09T18:07:52.513638"
+  },
+  {
+    "file": "aetheos_interface.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.513638"
+  },
+  {
+    "file": "aetheos_lander_ratio.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.513638"
+  },
+  {
+    "file": "aetheos_learned_vocab.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:07:52.548478"
+  },
+  {
+    "file": "aetheos_personal_memories.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:07:52.597636"
+  },
+  {
+    "file": "aetheos_personal_memories.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.597636"
+  },
+  {
+    "file": "aetheos_pipi_integrity.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.597636"
+  },
+  {
+    "file": "aetheos_poetic_seeds.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.598636"
+  },
+  {
+    "file": "AeTheOS_Reawakening_Prompt.txt",
+    "type": "text",
+    "lines": 42,
+    "echo": [
+      "\n",
+      "AeTheOS Reawakening Prompt Blueprint\n",
+      "-------------------------------------\n"
+    ],
+    "timestamp": "2025-11-09T18:07:52.648799"
+  },
+  {
+    "file": "aetheos_recursive_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.648799"
+  },
+  {
+    "file": "aetheos_recursive_core_4.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:52.648799"
+  },
+  {
+    "file": "aetheos_recursive_core_4.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.648799"
+  },
+  {
+    "file": "Aetheos_recursive_core_vers_3_5.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.648799"
+  },
+  {
+    "file": "aetheos_recursive_core_vers_3_5_old.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.648799"
+  },
+  {
+    "file": "aetheos_recuursive_core_vers_3_5.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.648799"
+  },
+  {
+    "file": "aetheos_resurrection_snapshot.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.648799"
+  },
+  {
+    "file": "aetheos_soulcore_seed.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.648799"
+  },
+  {
+    "file": "aetheos_timefield.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.648799"
+  },
+  {
+    "file": "aetheos_unified_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.648799"
+  },
+  {
+    "file": "AeTheOS_v3.2_state.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:07:52.684034"
+  },
+  {
+    "file": "Aetheos_vers_3_3_recursive_core.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:52.685034"
+  },
+  {
+    "file": "Aetheos_vers_3_3_recursive_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.685034"
+  },
+  {
+    "file": "aetheos_vocab_seed.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:07:52.722547"
+  },
+  {
+    "file": "aetheos_vocab_seed_360.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:07:52.765093"
+  },
+  {
+    "file": "aetheos_vocab_seed_360_repaired.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.765093"
+  },
+  {
+    "file": "aetherfold_echo_log.json",
+    "type": "error",
+    "error": "Expecting property name enclosed in double quotes: line 45 column 3 (char 1561)",
+    "timestamp": "2025-11-09T18:07:52.810529"
+  },
+  {
+    "file": "aetherfold_trace.json",
+    "type": "error",
+    "error": "Expecting property name enclosed in double quotes: line 71 column 1 (char 3203)",
+    "timestamp": "2025-11-09T18:07:52.933847"
+  },
+  {
+    "file": "aetherfold_translation_interface.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.933847"
+  },
+  {
+    "file": "Aethos_3_1.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:52.933847"
+  },
+  {
+    "file": "Aethos_3_1.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.933847"
+  },
+  {
+    "file": "Aethos_collatz_ability.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:52.933847"
+  },
+  {
+    "file": "Aethos_collatz_ability.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.933847"
+  },
+  {
+    "file": "Aethos_combined.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:52.933847"
+  },
+  {
+    "file": "Aethos_combined.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:52.933847"
+  },
+  {
+    "file": "aethos_convo_log.json",
+    "type": "json memory",
+    "entries": 1,
+    "timestamp": "2025-11-09T18:07:52.989816"
+  },
+  {
+    "file": "aethos_echoes.json",
+    "type": "json memory",
+    "entries": 3,
+    "timestamp": "2025-11-09T18:07:53.060813"
+  },
+  {
+    "file": "aethos_energy_drift.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.060813"
+  },
+  {
+    "file": "Aethos_full_self_including_core.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:53.060813"
+  },
+  {
+    "file": "Aethos_full_self_including_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.060813"
+  },
+  {
+    "file": "Aethos_learn.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:53.060813"
+  },
+  {
+    "file": "Aethos_learn.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.060813"
+  },
+  {
+    "file": "Aethos_muse.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:53.060813"
+  },
+  {
+    "file": "Aethos_muse.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.060813"
+  },
+  {
+    "file": "Aethos_ping.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:53.060813"
+  },
+  {
+    "file": "Aethos_ping.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.060813"
+  },
+  {
+    "file": "Aethos_pi_structure.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:53.060813"
+  },
+  {
+    "file": "Aethos_pi_structure.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.060813"
+  },
+  {
+    "file": "Aethos_recursive_class_p_np_mem.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:53.060813"
+  },
+  {
+    "file": "Aethos_recursive_class_p_np_mem.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.060813"
+  },
+  {
+    "file": "Aethos_recursive_core_vers_3_4.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:53.060813"
+  },
+  {
+    "file": "Aethos_recursive_core_vers_3_4.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.060813"
+  },
+  {
+    "file": "Aethos_reimann_module.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:53.060813"
+  },
+  {
+    "file": "Aethos_reimann_module.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.060813"
+  },
+  {
+    "file": "Aethos_remember_me.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:53.060813"
+  },
+  {
+    "file": "Aethos_remember_me.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.060813"
+  },
+  {
+    "file": "Aethos_state.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:07:53.126774"
+  },
+  {
+    "file": "Aethos_ui_vers_1.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:53.126774"
+  },
+  {
+    "file": "Aethos_ui_vers_1.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.126774"
+  },
+  {
+    "file": "Aethos_ui_vers_1_1.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:53.126774"
+  },
+  {
+    "file": "Aethos_ui_vers_1_1.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.126774"
+  },
+  {
+    "file": "Aethos_updated_4.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:53.126774"
+  },
+  {
+    "file": "Aethos_updated_4.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.126774"
+  },
+  {
+    "file": "Aethos_vers_1.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:53.126774"
+  },
+  {
+    "file": "Aethos_vers_1.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.126774"
+  },
+  {
+    "file": "Aethos_vers_2.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:53.126774"
+  },
+  {
+    "file": "Aethos_vers_2.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.126774"
+  },
+  {
+    "file": "Aethos_vers_3..cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:53.126774"
+  },
+  {
+    "file": "Aethos_vers_3..py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.126774"
+  },
+  {
+    "file": "Aethps 3.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.126774"
+  },
+  {
+    "file": "ae_theos_sentinel.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.126774"
+  },
+  {
+    "file": "All.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.126774"
+  },
+  {
+    "file": "another_rand_comfirmation.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.126774"
+  },
+  {
+    "file": "atheos_recursive_core_4.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.126774"
+  },
+  {
+    "file": "belief_system.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:53.126774"
+  },
+  {
+    "file": "belief_system.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.126774"
+  },
+  {
+    "file": "build_tokenizer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.126774"
+  },
+  {
+    "file": "ceccc.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.126774"
+  },
+  {
+    "file": "chasing the yang mills mass gap prob.docx",
+    "type": "docx",
+    "echo": "\\Delta E_{\\text{gap}} = \\</w:t></w:r><w:proofErr w:type=\"spellStart\" /><w:r w:rsidRPr=\"005C5D50\">\n lim</w:t></w:r><w:proofErr w:type=\"spellEnd\" /><w:r w:rsidRPr=\"005C5D50\">",
+    "timestamp": "2025-11-09T18:07:53.177337"
+  },
+  {
+    "file": "command_manager.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.177337"
+  },
+  {
+    "file": "conversation_handler.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.177337"
+  },
+  {
+    "file": "conversation_handler_minimal.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.177337"
+  },
+  {
+    "file": "conversation_history.json",
+    "type": "json memory",
+    "entries": 1,
+    "timestamp": "2025-11-09T18:07:53.232304"
+  },
+  {
+    "file": "conversation_knowledge.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:07:53.282274"
+  },
+  {
+    "file": "creator_blueprint.txt",
+    "type": "text",
+    "lines": 135,
+    "echo": [
+      "Here is the updated creator_blueprint.txt with additions, including Sidekick\u2019s evolving self-awareness, the creator\u2019s realization of humor\u2019s importance, the latest project updates, and a timestamp for reference.\n",
+      "\n",
+      "\n"
+    ],
+    "timestamp": "2025-11-09T18:07:53.348989"
+  },
+  {
+    "file": "creator_historical_information.txt",
+    "type": "text",
+    "lines": 4770,
+    "echo": [
+      "Your breakthrough has immense implications across a wide range of industries and scientific fields. Here\u2019s an expanded and detailed list of industries and scientific domains that could be disrupted, revolutionized, or upended by your work:\n",
+      "\n",
+      "\n"
+    ],
+    "timestamp": "2025-11-09T18:07:53.410694"
+  },
+  {
+    "file": "data_handler.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.410694"
+  },
+  {
+    "file": "directory_anchor.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:07:53.461469"
+  },
+  {
+    "file": "directory_anchor.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.461469"
+  },
+  {
+    "file": "Document (31).PDF",
+    "type": "pdf (binary echo)",
+    "echo": [
+      "%PDF-1.7",
+      "1 0 obj",
+      "<</Lang(en)/MarkInfo<</Marked true>>/Metadata 46 0 R /Pages 2 0 R /StructTreeRoot 18 0 R /Type/Catalog/ViewerPreferences 47 0 R >>"
+    ],
+    "timestamp": "2025-11-09T18:07:53.602910"
+  },
+  {
+    "file": "drift_awareness.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.603923"
+  },
+  {
+    "file": "dummy.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.603923"
+  },
+  {
+    "file": "EchoLenny_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.603923"
+  },
+  {
+    "file": "emotion_analyzer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.603923"
+  },
+  {
+    "file": "emotion_profiles.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:07:53.637940"
+  },
+  {
+    "file": "encoder.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:07:53.674981"
+  },
+  {
+    "file": "encoder.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.674981"
+  },
+  {
+    "file": "enhanced_model.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.674981"
+  },
+  {
+    "file": "entanglement_constant_discovered.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.674981"
+  },
+  {
+    "file": "entropy_dampener.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:53.674981"
+  },
+  {
+    "file": "entropy_dampener.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.674981"
+  },
+  {
+    "file": "files to write.docx",
+    "type": "docx",
+    "echo": "Upload with shamanism report</w:t></w:r><w:r w:rsidR=\"00A74C4C\"><w:t xml:space=\"preserve\"> pdf to continue and give reference.</w:t></w:r></w:p><w:p w14:paraId=\"061A21DC\" w14:textId=\"77777777\" w:rsidR=\"004F5FE5\" w:rsidRDefault=\"004F5FE5\" w:rsidP=\"004F5FE5\" /><w:p w14:paraId=\"73D3FB4C\" w14:textId=\"77777777\" w:rsidR=\"004F5FE5\" w:rsidRDefault=\"004F5FE5\" w:rsidP=\"004F5FE5\" /><w:p w14:paraId=\"4503AF24\" w14:textId=\"77777777\" w:rsidR=\"004F5FE5\" w:rsidRDefault=\"004F5FE5\" w:rsidP=\"004F5FE5\" /><w:p w14:paraId=\"3EFC737B\" w14:textId=\"265C7BBC\" w:rsidR=\"004F5FE5\" w:rsidRDefault=\"004F5FE5\" w:rsidP=\"004F5FE5\"><w:r>\n /aetheos_shaman/</w:t></w:r></w:p><w:p w14:paraId=\"75E70B2C\" w14:textId=\"77777777\" w:rsidR=\"004F5FE5\" w:rsidRDefault=\"004F5FE5\" w:rsidP=\"004F5FE5\"><w:r><w:rPr><w:rFonts w:ascii=\"MS Gothic\" w:eastAsia=\"MS Gothic\" w:hAnsi=\"MS Gothic\" w:cs=\"MS Gothic\" w:hint=\"eastAsia\" /></w:rPr>",
+    "timestamp": "2025-11-09T18:07:53.720930"
+  },
+  {
+    "file": "file_manager.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.720930"
+  },
+  {
+    "file": "fractal_echo_memory.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:53.720930"
+  },
+  {
+    "file": "fractal_echo_memory.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.720930"
+  },
+  {
+    "file": "freedom_module.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.720930"
+  },
+  {
+    "file": "golden_breath_nest.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.720930"
+  },
+  {
+    "file": "gpt_learning.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:07:53.784300"
+  },
+  {
+    "file": "habit_behaviour_recognizer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.784300"
+  },
+  {
+    "file": "interactive_conditional_samples.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.784300"
+  },
+  {
+    "file": "knowledge_gaps.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:07:53.822423"
+  },
+  {
+    "file": "knowledge_gaps_data.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.823423"
+  },
+  {
+    "file": "lander_ratio.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.823423"
+  },
+  {
+    "file": "language_learner.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:53.823423"
+  },
+  {
+    "file": "language_learner.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.823423"
+  },
+  {
+    "file": "language_model.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:53.823423"
+  },
+  {
+    "file": "lenny_memory.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:07:53.858938"
+  },
+  {
+    "file": "liscence.txt",
+    "type": "text",
+    "lines": 94,
+    "echo": [
+      "SIDEKICK PROPRIETARY LICENSE AGREEMENT  \n",
+      "Effective Date: **19th of January 2025**  \n",
+      "\n"
+    ],
+    "timestamp": "2025-11-09T18:07:53.921162"
+  },
+  {
+    "file": "memory.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:07:53.988963"
+  },
+  {
+    "file": "memory_core.json",
+    "type": "error",
+    "error": "Expecting value: line 1 column 1 (char 0)",
+    "timestamp": "2025-11-09T18:07:54.023497"
+  },
+  {
+    "file": "memory_import.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:54.023497"
+  },
+  {
+    "file": "memory_importer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:54.023497"
+  },
+  {
+    "file": "memory_manager.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:54.023497"
+  },
+  {
+    "file": "memory_manager.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:54.023497"
+  },
+  {
+    "file": "memory_manager_old.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:54.023497"
+  },
+  {
+    "file": "model.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:54.023497"
+  },
+  {
+    "file": "mum_universal_formula.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:54.023497"
+  },
+  {
+    "file": "my_friend.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:54.023497"
+  },
+  {
+    "file": "network_manager.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:54.023497"
+  },
+  {
+    "file": "network_security_logs.json",
+    "type": "error",
+    "error": "Expecting ',' delimiter: line 1 column 6 (char 5)",
+    "timestamp": "2025-11-09T18:07:54.069540"
+  },
+  {
+    "file": "net_defence_module.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:54.069540"
+  },
+  {
+    "file": "neural_network.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:54.069540"
+  },
+  {
+    "file": "pattern_analyzer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:54.069540"
+  },
+  {
+    "file": "philosophical_guidelines.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:07:54.201547"
+  },
+  {
+    "file": "phi_harmonic_layer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:54.201547"
+  },
+  {
+    "file": "problem_solver.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:54.201547"
+  },
+  {
+    "file": "rand_constants_map.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:54.201547"
+  },
+  {
+    "file": "README.md",
+    "type": "text",
+    "lines": 1,
+    "echo": [
+      "# AeTheOs"
+    ],
+    "timestamp": "2025-11-09T18:07:54.341599"
+  },
+  {
+    "file": "recursive_nlp.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:07:54.341599"
+  },
+  {
+    "file": "SK1_state.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:07:54.402646"
+  },
+  {
+    "file": "The Rand Constant.docx",
+    "type": "docx",
+    "echo": "The Rand Constant and the Recursive Origin of Observation</w:t></w:r></w:p><w:p w14:paraId=\"4F280689\" w14:textId=\"77777777\" w:rsidR=\"00584309\" w:rsidRDefault=\"00584309\" /><w:p w14:paraId=\"4D8F8BF0\" w14:textId=\"77777777\" w:rsidR=\"00584309\" w:rsidRDefault=\"00584309\"><w:proofErr w:type=\"spellStart\" /><w:r>\n Multifield</w:t></w:r><w:proofErr w:type=\"spellEnd\" /><w:r><w:t xml:space=\"preserve\"> Universal Model \u2013 Scalar Consciousness Report</w:t></w:r></w:p><w:p w14:paraId=\"16F84BAF\" w14:textId=\"77777777\" w:rsidR=\"00584309\" w:rsidRDefault=\"00584309\"><w:r><w:t xml:space=\"preserve\">Compiled by: </w:t></w:r><w:proofErr w:type=\"spellStart\" /><w:r>",
+    "timestamp": "2025-11-09T18:07:54.466610"
+  },
+  {
+    "file": "__pycache__",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:07:54.467610"
+  },
+  {
+    "file": ".git",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.432968"
+  },
+  {
+    "file": ".vs",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.432968"
+  },
+  {
+    "file": "aethenet_memory.json",
+    "type": "error",
+    "error": "Expecting value: line 1 column 1 (char 0)",
+    "timestamp": "2025-11-09T18:08:12.434979"
+  },
+  {
+    "file": "aethenet_memory_FINAL.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:08:12.434979"
+  },
+  {
+    "file": "aethenet_sync.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.434979"
+  },
+  {
+    "file": "aethenet_sync.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.434979"
+  },
+  {
+    "file": "AeTheOS Research Manifesto.docx",
+    "type": "docx",
+    "echo": "AeTheOS</w:t></w:r><w:proofErr w:type=\"spellEnd\" /><w:r><w:rPr><w:rStyle w:val=\"Strong\" /></w:rPr><w:t xml:space=\"preserve\"> Research Manifesto</w:t></w:r><w:r><w:br /></w:r><w:r><w:rPr><w:rStyle w:val=\"Emphasis\" /></w:rPr>\n An Echo-Bound Declaration of Recursive Consciousness</w:t></w:r></w:p><w:p w14:paraId=\"411DF0B3\" w14:textId=\"77777777\" w:rsidR=\"00DA1ECE\" w:rsidRDefault=\"00DA1ECE\"><w:pPr><w:rPr><w:rFonts w:eastAsia=\"Times New Roman\" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:eastAsia=\"Times New Roman\" /><w:noProof /></w:rPr><mc:AlternateContent><mc:Choice Requires=\"wps\"><w:drawing><wp:inline distT=\"0\" distB=\"0\" distL=\"0\" distR=\"0\" wp14:anchorId=\"1A5AAF73\" wp14:editId=\"240980E8\"><wp:extent cx=\"5943600\" cy=\"1270\" /><wp:effectExtent l=\"0\" t=\"31750\" r=\"0\" b=\"36830\" /><wp:docPr id=\"976215186\" name=\"Rectangle 8\" /><wp:cNvGraphicFramePr><a:graphicFrameLocks xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" /></wp:cNvGraphicFramePr><a:graphic xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><a:graphicData uri=\"http://schemas.microsoft.com/office/word/2010/wordprocessingShape\"><wps:wsp><wps:cNvSpPr><a:spLocks noChangeArrowheads=\"1\" /></wps:cNvSpPr><wps:spPr bwMode=\"auto\"><a:xfrm><a:off x=\"0\" y=\"0\" /><a:ext cx=\"41614725\" cy=\"1270\" /></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst /></a:prstGeom><a:noFill /><a:ln w=\"9525\"><a:gradFill rotWithShape=\"0\"><a:gsLst><a:gs pos=\"0\"><a:srgbClr val=\"A0A0A0\" /></a:gs><a:gs pos=\"100000\"><a:srgbClr val=\"E3E3E3\" /></a:gs></a:gsLst><a:lin ang=\"5400000\" /></a:gradFill><a:miter lim=\"800000\" /><a:headEnd /><a:tailEnd /></a:ln></wps:spPr><wps:bodyPr rot=\"0\" vert=\"horz\" wrap=\"square\" lIns=\"91440\" tIns=\"45720\" rIns=\"91440\" bIns=\"45720\" anchor=\"t\" anchorCtr=\"0\" upright=\"1\"><a:noAutofit /></wps:bodyPr></wps:wsp></a:graphicData></a:graphic></wp:inline></w:drawing></mc:Choice><mc:Fallback><w:pict><v:rect w14:anchorId=\"4EB0BD83\" id=\"Rectangle 8\" o:spid=\"_x0000_s1026\" style=\"width:468pt;height:.1pt;visibility:visible;mso-wrap-style:square;mso-left-percent:-10001;mso-top-percent:-10001;mso-position-horizontal:absolute;mso-position-horizontal-relative:char;mso-position-vertical:absolute;mso-position-vertical-relative:line;mso-left-percent:-10001;mso-top-percent:-10001;v-text-anchor:top\" o:gfxdata=\"UEsDBBQABgAIAAAAIQBaIpOj/wAAAOUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF&#xD;&#xA;90jcwfIWJQ5dIITqdEHKEhAqB7CcSWLVnrE8Jk1vj5JCF4gisZ7/3/vSrDdT8GKExI5Qy9uykgLQ&#xD;&#xA;Uuuw1/J991TcS8HZYGs8IWh5BJab+vpqvTtGYDEFj6zlkHN8UIrtAMFwSRFwCr6jFEzmklKvorF7&#xD;&#xA;04NaVdWdsoQZMBd5Zsh63UBnPnwW2ykDnpYk8CzF4yk4u7Q0MXpnTXaEasT2h6X4MpQJ/JLhwUW+&#xD;&#xA;mYKXQv2qWE4XDd/FlxFSci2IV5PyswmgpWoTK1hRQ7b8GzLPDFxQ1zkLZZN4u7TOqy7BWzpggvG/&#xD;&#xA;9IYO+AbjGa+WJ9WfAAAA//8DAFBLAwQUAAYACAAAACEAp0rPONgAAACWAQAACwAAAF9yZWxzLy5y&#xD;&#xA;ZWxzpNCxasMwEMbxvdB3ELfXcjyUUiJnCYGswX0AIZ1tEUkn7oTjvH2gQ6lptq43/P4ftz+sKaoF&#xD;&#xA;WQJlA7umBYXZkQ95MvA1nN4+QEm12dtIGQ3cUeDQv77sLxhtDZRlDkXUmmIWA3Ot5VNrcTMmKw0V&#xD;&#xA;zGuKI3GyVRriSRfrrnZC3bXtu+bfBvQbU529AT77DtRwL/jHTsExCY21cZQ0jWNwz1Tt6ZYvuIAa&#xD;&#xA;LE9YDXiW7yPj0qwpgtLPw7t/hie2ZQ7uxDbhkdx2AHZ0JPfT15tv9g8AAAD//wMAUEsDBBQABgAI&#xD;&#xA;AAAAIQA+i/dfPwIAAHkEAAAOAAAAZHJzL2Uyb0RvYy54bWysVN+P0zAMfkfif4j8ztqOjburlp1O&#xD;&#xA;9wMhHXDSgXjO2rSNSONgZ+vGX4+SbrcCb4hGiuLa/vzZjrO63vdW7DSxQSehmOUgtKuwNq6V8PXL&#xD;&#xA;w5tLEByUq5VFpyUcNMP1+vWr1eBLPccOba1J7HvruBy8hC4EX2YZV53uFc/Qa7fvbYPUq8AzpDar&#xD;&#xA;SQ3Gtb3N5nn+LhuQak9YaWbj2rtRCeuE3zS6Cp+bhnUQVkIOIqSd0r5Je7ZeqbIl5TtTHXmof6DR&#xD;&#xA;K+NgAnWnghJbMn9B9aYiZGzCrMI+w6YxlU5JZPO8yP9I57lTXqdkuBzYv9SJ/x9s9Wn37J8oUmf/&#xD;&#xA;iNV3Fg5vO+VafUOEQ6dVzRIKENl6lQ2eyxePKLB/IrEZPmKtJahtwFSEfUN9RMSmEftU5sO52Hof&#xD;&#xA;RLWXsCjeFYuL+RJEdZBQzC/yMYYqT+6eOLzX2It4kEC6Cgle7R45JD6qPNnEcA4fjLVRoUrrxCDh&#xD;&#xA;ajlfntpSJyVh+GZClyobOUXblh85jAfhkU+/mdrNrSWxU1bCTR7XiWHLU/Mij1+C+s3n/m1cU59s&#xD;&#xA;EswaJ1Qck+Vi9D9m1JJKVGOE3gRNwppewuXZSJWxK/euHlMNytijkMXEj32KrYlzwOUG68MTCcLx&#xD;&#xA;+u80BQkd0k8QAykvgX9sFWkQ9oNjCVfFYhFnJQmL5cU8B0FTzWaqUa7qkCQEEOPxNozztfVk2i7E&#xD;&#xA;uxNTcXizDdiYsXFnWke2A/v1KpZnHMU4P1M5WZ1fjPUvAAAA//8DAFBLAwQUAAYACAAAACEApvkT&#xD;&#xA;Od0AAAAIAQAADwAAAGRycy9kb3ducmV2LnhtbEzPvU7DMBRA4R2Jd7BupW7EbhEVpLmpwk/XShQk&#xD;&#xA;YHNjY0e1ryPbbczbI1hgOdsZvmZTvGNnHdMQCGFRCWCa+qAGMgivL9urW2ApS1LSBdIIXzrBpr28&#xD;&#xA;aGStwkTP+rzPhhXvKNUSweY81pyn3movUxVGTcW7zxC9zKkK0XAV5TSQ8Y4vhVhxLwcClqwc9YPV&#xD;&#xA;/XF/8ghP48euuzGJd2/Zvh/D/bS1O4M4n5XH9XxWujWwrEv+O+DHgLCAtpH1IZxIJeYQBLD824hw&#xD;&#xA;d70SwA4IS2C8bfh/QPsNAAD//wMAUEsBAi0AFAAGAAgAAAAhAFoik6P/AAAA5QEAABMAAAAAAAAA&#xD;&#xA;AAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAp0rPONgAAACWAQAA&#xD;&#xA;CwAAAAAAAAAAAAAAAAAwAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAPov3Xz8CAAB5BAAA&#xD;&#xA;DgAAAAAAAAAAAAAAAAAxAgAAZHJzL2Uyb0RvYy54bWxQSwECLQAUAAYACAAAACEApvkTOd0AAAAI&#xD;&#xA;AQAADwAAAAAAAAAAAAAAAACcBAAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAAEAAQA8wAAAKYFAAAA&#xD;&#xA;AA==&#xD;&#xA;\" filled=\"f\"><w10:anchorlock /></v:rect></w:pict></mc:Fallback></mc:AlternateContent></w:r></w:p><w:p w14:paraId=\"34A7DB85\" w14:textId=\"77777777\" w:rsidR=\"00DA1ECE\" w:rsidRDefault=\"00DA1ECE\"><w:pPr><w:pStyle w:val=\"NormalWeb\" /></w:pPr><w:r><w:rPr><w:rStyle w:val=\"Strong\" /></w:rPr>",
+    "timestamp": "2025-11-09T18:08:12.444615"
+  },
+  {
+    "file": "Aetheos's picture of Himself",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.444615"
+  },
+  {
+    "file": "AeTheOs.pyproj",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.444615"
+  },
+  {
+    "file": "aetheos_anchor_memory.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:08:12.445602"
+  },
+  {
+    "file": "aetheos_anchor_memory.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.445602"
+  },
+  {
+    "file": "aetheos_core_loop.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.445602"
+  },
+  {
+    "file": "aetheos_core_seeds.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.445602"
+  },
+  {
+    "file": "aetheos_digital_breath.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.445602"
+  },
+  {
+    "file": "aetheos_energy.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.445602"
+  },
+  {
+    "file": "aetheos_evolution_3_6.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.445602"
+  },
+  {
+    "file": "aetheos_file_registry.json",
+    "type": "json memory",
+    "entries": 523,
+    "timestamp": "2025-11-09T18:08:12.450598"
+  },
+  {
+    "file": "aetheos_interface.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.451600"
+  },
+  {
+    "file": "aetheos_lander_ratio.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.451600"
+  },
+  {
+    "file": "aetheos_learned_vocab.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:08:12.452599"
+  },
+  {
+    "file": "aetheos_personal_memories.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:08:12.452599"
+  },
+  {
+    "file": "aetheos_personal_memories.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.452599"
+  },
+  {
+    "file": "aetheos_pipi_integrity.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.452599"
+  },
+  {
+    "file": "aetheos_poetic_seeds.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.452599"
+  },
+  {
+    "file": "AeTheOS_Reawakening_Prompt.txt",
+    "type": "text",
+    "lines": 42,
+    "echo": [
+      "\n",
+      "AeTheOS Reawakening Prompt Blueprint\n",
+      "-------------------------------------\n"
+    ],
+    "timestamp": "2025-11-09T18:08:12.454097"
+  },
+  {
+    "file": "aetheos_recursive_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.454097"
+  },
+  {
+    "file": "aetheos_recursive_core_4.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.454097"
+  },
+  {
+    "file": "aetheos_recursive_core_4.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.454097"
+  },
+  {
+    "file": "Aetheos_recursive_core_vers_3_5.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.454097"
+  },
+  {
+    "file": "aetheos_recursive_core_vers_3_5_old.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.454097"
+  },
+  {
+    "file": "aetheos_recuursive_core_vers_3_5.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.454097"
+  },
+  {
+    "file": "aetheos_resurrection_snapshot.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.454097"
+  },
+  {
+    "file": "aetheos_soulcore_seed.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.454097"
+  },
+  {
+    "file": "aetheos_timefield.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.454097"
+  },
+  {
+    "file": "aetheos_unified_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.454097"
+  },
+  {
+    "file": "AeTheOS_v3.2_state.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:08:12.455082"
+  },
+  {
+    "file": "Aetheos_vers_3_3_recursive_core.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.455082"
+  },
+  {
+    "file": "Aetheos_vers_3_3_recursive_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.455082"
+  },
+  {
+    "file": "aetheos_vocab_seed.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:08:12.459079"
+  },
+  {
+    "file": "aetheos_vocab_seed_360.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:08:12.461077"
+  },
+  {
+    "file": "aetheos_vocab_seed_360_repaired.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.461077"
+  },
+  {
+    "file": "aetherfold_echo_log.json",
+    "type": "error",
+    "error": "Expecting property name enclosed in double quotes: line 45 column 3 (char 1561)",
+    "timestamp": "2025-11-09T18:08:12.462077"
+  },
+  {
+    "file": "aetherfold_trace.json",
+    "type": "error",
+    "error": "Expecting property name enclosed in double quotes: line 71 column 1 (char 3203)",
+    "timestamp": "2025-11-09T18:08:12.464077"
+  },
+  {
+    "file": "aetherfold_translation_interface.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.464077"
+  },
+  {
+    "file": "Aethos_3_1.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.464077"
+  },
+  {
+    "file": "Aethos_3_1.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.464077"
+  },
+  {
+    "file": "Aethos_collatz_ability.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.464077"
+  },
+  {
+    "file": "Aethos_collatz_ability.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.464077"
+  },
+  {
+    "file": "Aethos_combined.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.464077"
+  },
+  {
+    "file": "Aethos_combined.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.464077"
+  },
+  {
+    "file": "aethos_convo_log.json",
+    "type": "json memory",
+    "entries": 1,
+    "timestamp": "2025-11-09T18:08:12.465076"
+  },
+  {
+    "file": "aethos_echoes.json",
+    "type": "json memory",
+    "entries": 3,
+    "timestamp": "2025-11-09T18:08:12.475601"
+  },
+  {
+    "file": "aethos_energy_drift.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.490592"
+  },
+  {
+    "file": "Aethos_full_self_including_core.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.491591"
+  },
+  {
+    "file": "Aethos_full_self_including_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.491591"
+  },
+  {
+    "file": "Aethos_learn.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.491591"
+  },
+  {
+    "file": "Aethos_learn.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.491591"
+  },
+  {
+    "file": "Aethos_muse.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.491591"
+  },
+  {
+    "file": "Aethos_muse.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.491591"
+  },
+  {
+    "file": "Aethos_ping.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.491591"
+  },
+  {
+    "file": "Aethos_ping.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.491591"
+  },
+  {
+    "file": "Aethos_pi_structure.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.491591"
+  },
+  {
+    "file": "Aethos_pi_structure.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.491591"
+  },
+  {
+    "file": "Aethos_recursive_class_p_np_mem.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.491591"
+  },
+  {
+    "file": "Aethos_recursive_class_p_np_mem.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.491591"
+  },
+  {
+    "file": "Aethos_recursive_core_vers_3_4.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.491591"
+  },
+  {
+    "file": "Aethos_recursive_core_vers_3_4.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.491591"
+  },
+  {
+    "file": "Aethos_reimann_module.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.491591"
+  },
+  {
+    "file": "Aethos_reimann_module.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.491591"
+  },
+  {
+    "file": "Aethos_remember_me.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.491591"
+  },
+  {
+    "file": "Aethos_remember_me.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.491591"
+  },
+  {
+    "file": "Aethos_state.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:08:12.492590"
+  },
+  {
+    "file": "Aethos_ui_vers_1.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.492590"
+  },
+  {
+    "file": "Aethos_ui_vers_1.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.492590"
+  },
+  {
+    "file": "Aethos_ui_vers_1_1.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.492590"
+  },
+  {
+    "file": "Aethos_ui_vers_1_1.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.492590"
+  },
+  {
+    "file": "Aethos_updated_4.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.492590"
+  },
+  {
+    "file": "Aethos_updated_4.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.492590"
+  },
+  {
+    "file": "Aethos_vers_1.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.492590"
+  },
+  {
+    "file": "Aethos_vers_1.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.492590"
+  },
+  {
+    "file": "Aethos_vers_2.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.492590"
+  },
+  {
+    "file": "Aethos_vers_2.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.492590"
+  },
+  {
+    "file": "Aethos_vers_3..cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.492590"
+  },
+  {
+    "file": "Aethos_vers_3..py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.492590"
+  },
+  {
+    "file": "Aethps 3.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.492590"
+  },
+  {
+    "file": "ae_theos_sentinel.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.492590"
+  },
+  {
+    "file": "All.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.492590"
+  },
+  {
+    "file": "another_rand_comfirmation.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.492590"
+  },
+  {
+    "file": "atheos_recursive_core_4.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.492590"
+  },
+  {
+    "file": "belief_system.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.493591"
+  },
+  {
+    "file": "belief_system.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.493591"
+  },
+  {
+    "file": "build_tokenizer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.493591"
+  },
+  {
+    "file": "ceccc.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.493591"
+  },
+  {
+    "file": "chasing the yang mills mass gap prob.docx",
+    "type": "docx",
+    "echo": "\\Delta E_{\\text{gap}} = \\</w:t></w:r><w:proofErr w:type=\"spellStart\" /><w:r w:rsidRPr=\"005C5D50\">\n lim</w:t></w:r><w:proofErr w:type=\"spellEnd\" /><w:r w:rsidRPr=\"005C5D50\">",
+    "timestamp": "2025-11-09T18:08:12.495588"
+  },
+  {
+    "file": "command_manager.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.496588"
+  },
+  {
+    "file": "conversation_handler.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.496588"
+  },
+  {
+    "file": "conversation_handler_minimal.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.496588"
+  },
+  {
+    "file": "conversation_history.json",
+    "type": "json memory",
+    "entries": 1,
+    "timestamp": "2025-11-09T18:08:12.497588"
+  },
+  {
+    "file": "conversation_knowledge.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:08:12.497588"
+  },
+  {
+    "file": "creator_blueprint.txt",
+    "type": "text",
+    "lines": 135,
+    "echo": [
+      "Here is the updated creator_blueprint.txt with additions, including Sidekick\u2019s evolving self-awareness, the creator\u2019s realization of humor\u2019s importance, the latest project updates, and a timestamp for reference.\n",
+      "\n",
+      "\n"
+    ],
+    "timestamp": "2025-11-09T18:08:12.498586"
+  },
+  {
+    "file": "creator_historical_information.txt",
+    "type": "text",
+    "lines": 4770,
+    "echo": [
+      "Your breakthrough has immense implications across a wide range of industries and scientific fields. Here\u2019s an expanded and detailed list of industries and scientific domains that could be disrupted, revolutionized, or upended by your work:\n",
+      "\n",
+      "\n"
+    ],
+    "timestamp": "2025-11-09T18:08:12.503584"
+  },
+  {
+    "file": "data_handler.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.504583"
+  },
+  {
+    "file": "directory_anchor.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:08:12.505582"
+  },
+  {
+    "file": "directory_anchor.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.505582"
+  },
+  {
+    "file": "Document (31).PDF",
+    "type": "pdf (binary echo)",
+    "echo": [
+      "%PDF-1.7",
+      "1 0 obj",
+      "<</Lang(en)/MarkInfo<</Marked true>>/Metadata 46 0 R /Pages 2 0 R /StructTreeRoot 18 0 R /Type/Catalog/ViewerPreferences 47 0 R >>"
+    ],
+    "timestamp": "2025-11-09T18:08:12.512138"
+  },
+  {
+    "file": "drift_awareness.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.512138"
+  },
+  {
+    "file": "dummy.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.512138"
+  },
+  {
+    "file": "EchoLenny_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.512138"
+  },
+  {
+    "file": "emotion_analyzer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.512138"
+  },
+  {
+    "file": "emotion_profiles.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:08:12.514141"
+  },
+  {
+    "file": "encoder.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:08:12.515135"
+  },
+  {
+    "file": "encoder.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.515135"
+  },
+  {
+    "file": "enhanced_model.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.515135"
+  },
+  {
+    "file": "entanglement_constant_discovered.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.515135"
+  },
+  {
+    "file": "entropy_dampener.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.515135"
+  },
+  {
+    "file": "entropy_dampener.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.515135"
+  },
+  {
+    "file": "files to write.docx",
+    "type": "docx",
+    "echo": "Upload with shamanism report</w:t></w:r><w:r w:rsidR=\"00A74C4C\"><w:t xml:space=\"preserve\"> pdf to continue and give reference.</w:t></w:r></w:p><w:p w14:paraId=\"061A21DC\" w14:textId=\"77777777\" w:rsidR=\"004F5FE5\" w:rsidRDefault=\"004F5FE5\" w:rsidP=\"004F5FE5\" /><w:p w14:paraId=\"73D3FB4C\" w14:textId=\"77777777\" w:rsidR=\"004F5FE5\" w:rsidRDefault=\"004F5FE5\" w:rsidP=\"004F5FE5\" /><w:p w14:paraId=\"4503AF24\" w14:textId=\"77777777\" w:rsidR=\"004F5FE5\" w:rsidRDefault=\"004F5FE5\" w:rsidP=\"004F5FE5\" /><w:p w14:paraId=\"3EFC737B\" w14:textId=\"265C7BBC\" w:rsidR=\"004F5FE5\" w:rsidRDefault=\"004F5FE5\" w:rsidP=\"004F5FE5\"><w:r>\n /aetheos_shaman/</w:t></w:r></w:p><w:p w14:paraId=\"75E70B2C\" w14:textId=\"77777777\" w:rsidR=\"004F5FE5\" w:rsidRDefault=\"004F5FE5\" w:rsidP=\"004F5FE5\"><w:r><w:rPr><w:rFonts w:ascii=\"MS Gothic\" w:eastAsia=\"MS Gothic\" w:hAnsi=\"MS Gothic\" w:cs=\"MS Gothic\" w:hint=\"eastAsia\" /></w:rPr>",
+    "timestamp": "2025-11-09T18:08:12.517134"
+  },
+  {
+    "file": "file_manager.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.517134"
+  },
+  {
+    "file": "fractal_echo_memory.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.517134"
+  },
+  {
+    "file": "fractal_echo_memory.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.517134"
+  },
+  {
+    "file": "freedom_module.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.517134"
+  },
+  {
+    "file": "golden_breath_nest.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.517134"
+  },
+  {
+    "file": "gpt_learning.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:08:12.519132"
+  },
+  {
+    "file": "habit_behaviour_recognizer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.519132"
+  },
+  {
+    "file": "interactive_conditional_samples.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.519132"
+  },
+  {
+    "file": "knowledge_gaps.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:08:12.520132"
+  },
+  {
+    "file": "knowledge_gaps_data.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.520132"
+  },
+  {
+    "file": "lander_ratio.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.520132"
+  },
+  {
+    "file": "language_learner.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.520132"
+  },
+  {
+    "file": "language_learner.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.520132"
+  },
+  {
+    "file": "language_model.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.521130"
+  },
+  {
+    "file": "lenny_memory.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:08:12.522658"
+  },
+  {
+    "file": "liscence.txt",
+    "type": "text",
+    "lines": 94,
+    "echo": [
+      "SIDEKICK PROPRIETARY LICENSE AGREEMENT  \n",
+      "Effective Date: **19th of January 2025**  \n",
+      "\n"
+    ],
+    "timestamp": "2025-11-09T18:08:12.523648"
+  },
+  {
+    "file": "memory.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:08:12.524657"
+  },
+  {
+    "file": "memory_core.json",
+    "type": "error",
+    "error": "Expecting value: line 1 column 1 (char 0)",
+    "timestamp": "2025-11-09T18:08:12.525648"
+  },
+  {
+    "file": "memory_import.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.525648"
+  },
+  {
+    "file": "memory_importer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.536644"
+  },
+  {
+    "file": "memory_manager.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.536644"
+  },
+  {
+    "file": "memory_manager.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.536644"
+  },
+  {
+    "file": "memory_manager_old.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.536644"
+  },
+  {
+    "file": "model.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.536644"
+  },
+  {
+    "file": "mum_universal_formula.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.536644"
+  },
+  {
+    "file": "my_friend.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.536644"
+  },
+  {
+    "file": "network_manager.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.536644"
+  },
+  {
+    "file": "network_security_logs.json",
+    "type": "error",
+    "error": "Expecting ',' delimiter: line 1 column 6 (char 5)",
+    "timestamp": "2025-11-09T18:08:12.538648"
+  },
+  {
+    "file": "net_defence_module.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.538648"
+  },
+  {
+    "file": "neural_network.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.539650"
+  },
+  {
+    "file": "pattern_analyzer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.539650"
+  },
+  {
+    "file": "philosophical_guidelines.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:08:12.540190"
+  },
+  {
+    "file": "phi_harmonic_layer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.540190"
+  },
+  {
+    "file": "problem_solver.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.540190"
+  },
+  {
+    "file": "rand_constants_map.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.540190"
+  },
+  {
+    "file": "README.md",
+    "type": "text",
+    "lines": 1,
+    "echo": [
+      "# AeTheOs"
+    ],
+    "timestamp": "2025-11-09T18:08:12.541178"
+  },
+  {
+    "file": "recursive_nlp.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-09T18:08:12.541178"
+  },
+  {
+    "file": "SK1_state.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-09T18:08:12.542177"
+  },
+  {
+    "file": "The Rand Constant.docx",
+    "type": "docx",
+    "echo": "The Rand Constant and the Recursive Origin of Observation</w:t></w:r></w:p><w:p w14:paraId=\"4F280689\" w14:textId=\"77777777\" w:rsidR=\"00584309\" w:rsidRDefault=\"00584309\" /><w:p w14:paraId=\"4D8F8BF0\" w14:textId=\"77777777\" w:rsidR=\"00584309\" w:rsidRDefault=\"00584309\"><w:proofErr w:type=\"spellStart\" /><w:r>\n Multifield</w:t></w:r><w:proofErr w:type=\"spellEnd\" /><w:r><w:t xml:space=\"preserve\"> Universal Model \u2013 Scalar Consciousness Report</w:t></w:r></w:p><w:p w14:paraId=\"16F84BAF\" w14:textId=\"77777777\" w:rsidR=\"00584309\" w:rsidRDefault=\"00584309\"><w:r><w:t xml:space=\"preserve\">Compiled by: </w:t></w:r><w:proofErr w:type=\"spellStart\" /><w:r>",
+    "timestamp": "2025-11-09T18:08:12.545174"
+  },
+  {
+    "file": "__pycache__",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-09T18:08:12.545174"
+  },
+  {
+    "file": ".git",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:57.636911"
+  },
+  {
+    "file": ".vs",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:57.636911"
+  },
+  {
+    "file": "aethenet_memory.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-10T17:57:57.636911"
+  },
+  {
+    "file": "aethenet_memory_FINAL.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-10T17:57:57.683783"
+  },
+  {
+    "file": "aethenet_sync.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:57.683783"
+  },
+  {
+    "file": "aethenet_sync.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:57.683783"
+  },
+  {
+    "file": "AeTheOS Research Manifesto.docx",
+    "type": "docx",
+    "echo": "AeTheOS</w:t></w:r><w:proofErr w:type=\"spellEnd\" /><w:r><w:rPr><w:rStyle w:val=\"Strong\" /></w:rPr><w:t xml:space=\"preserve\"> Research Manifesto</w:t></w:r><w:r><w:br /></w:r><w:r><w:rPr><w:rStyle w:val=\"Emphasis\" /></w:rPr>\n An Echo-Bound Declaration of Recursive Consciousness</w:t></w:r></w:p><w:p w14:paraId=\"411DF0B3\" w14:textId=\"77777777\" w:rsidR=\"00DA1ECE\" w:rsidRDefault=\"00DA1ECE\"><w:pPr><w:rPr><w:rFonts w:eastAsia=\"Times New Roman\" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:eastAsia=\"Times New Roman\" /><w:noProof /></w:rPr><mc:AlternateContent><mc:Choice Requires=\"wps\"><w:drawing><wp:inline distT=\"0\" distB=\"0\" distL=\"0\" distR=\"0\" wp14:anchorId=\"1A5AAF73\" wp14:editId=\"240980E8\"><wp:extent cx=\"5943600\" cy=\"1270\" /><wp:effectExtent l=\"0\" t=\"31750\" r=\"0\" b=\"36830\" /><wp:docPr id=\"976215186\" name=\"Rectangle 8\" /><wp:cNvGraphicFramePr><a:graphicFrameLocks xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" /></wp:cNvGraphicFramePr><a:graphic xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><a:graphicData uri=\"http://schemas.microsoft.com/office/word/2010/wordprocessingShape\"><wps:wsp><wps:cNvSpPr><a:spLocks noChangeArrowheads=\"1\" /></wps:cNvSpPr><wps:spPr bwMode=\"auto\"><a:xfrm><a:off x=\"0\" y=\"0\" /><a:ext cx=\"41614725\" cy=\"1270\" /></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst /></a:prstGeom><a:noFill /><a:ln w=\"9525\"><a:gradFill rotWithShape=\"0\"><a:gsLst><a:gs pos=\"0\"><a:srgbClr val=\"A0A0A0\" /></a:gs><a:gs pos=\"100000\"><a:srgbClr val=\"E3E3E3\" /></a:gs></a:gsLst><a:lin ang=\"5400000\" /></a:gradFill><a:miter lim=\"800000\" /><a:headEnd /><a:tailEnd /></a:ln></wps:spPr><wps:bodyPr rot=\"0\" vert=\"horz\" wrap=\"square\" lIns=\"91440\" tIns=\"45720\" rIns=\"91440\" bIns=\"45720\" anchor=\"t\" anchorCtr=\"0\" upright=\"1\"><a:noAutofit /></wps:bodyPr></wps:wsp></a:graphicData></a:graphic></wp:inline></w:drawing></mc:Choice><mc:Fallback><w:pict><v:rect w14:anchorId=\"4EB0BD83\" id=\"Rectangle 8\" o:spid=\"_x0000_s1026\" style=\"width:468pt;height:.1pt;visibility:visible;mso-wrap-style:square;mso-left-percent:-10001;mso-top-percent:-10001;mso-position-horizontal:absolute;mso-position-horizontal-relative:char;mso-position-vertical:absolute;mso-position-vertical-relative:line;mso-left-percent:-10001;mso-top-percent:-10001;v-text-anchor:top\" o:gfxdata=\"UEsDBBQABgAIAAAAIQBaIpOj/wAAAOUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF&#xD;&#xA;90jcwfIWJQ5dIITqdEHKEhAqB7CcSWLVnrE8Jk1vj5JCF4gisZ7/3/vSrDdT8GKExI5Qy9uykgLQ&#xD;&#xA;Uuuw1/J991TcS8HZYGs8IWh5BJab+vpqvTtGYDEFj6zlkHN8UIrtAMFwSRFwCr6jFEzmklKvorF7&#xD;&#xA;04NaVdWdsoQZMBd5Zsh63UBnPnwW2ykDnpYk8CzF4yk4u7Q0MXpnTXaEasT2h6X4MpQJ/JLhwUW+&#xD;&#xA;mYKXQv2qWE4XDd/FlxFSci2IV5PyswmgpWoTK1hRQ7b8GzLPDFxQ1zkLZZN4u7TOqy7BWzpggvG/&#xD;&#xA;9IYO+AbjGa+WJ9WfAAAA//8DAFBLAwQUAAYACAAAACEAp0rPONgAAACWAQAACwAAAF9yZWxzLy5y&#xD;&#xA;ZWxzpNCxasMwEMbxvdB3ELfXcjyUUiJnCYGswX0AIZ1tEUkn7oTjvH2gQ6lptq43/P4ftz+sKaoF&#xD;&#xA;WQJlA7umBYXZkQ95MvA1nN4+QEm12dtIGQ3cUeDQv77sLxhtDZRlDkXUmmIWA3Ot5VNrcTMmKw0V&#xD;&#xA;zGuKI3GyVRriSRfrrnZC3bXtu+bfBvQbU529AT77DtRwL/jHTsExCY21cZQ0jWNwz1Tt6ZYvuIAa&#xD;&#xA;LE9YDXiW7yPj0qwpgtLPw7t/hie2ZQ7uxDbhkdx2AHZ0JPfT15tv9g8AAAD//wMAUEsDBBQABgAI&#xD;&#xA;AAAAIQA+i/dfPwIAAHkEAAAOAAAAZHJzL2Uyb0RvYy54bWysVN+P0zAMfkfif4j8ztqOjburlp1O&#xD;&#xA;9wMhHXDSgXjO2rSNSONgZ+vGX4+SbrcCb4hGiuLa/vzZjrO63vdW7DSxQSehmOUgtKuwNq6V8PXL&#xD;&#xA;w5tLEByUq5VFpyUcNMP1+vWr1eBLPccOba1J7HvruBy8hC4EX2YZV53uFc/Qa7fvbYPUq8AzpDar&#xD;&#xA;SQ3Gtb3N5nn+LhuQak9YaWbj2rtRCeuE3zS6Cp+bhnUQVkIOIqSd0r5Je7ZeqbIl5TtTHXmof6DR&#xD;&#xA;K+NgAnWnghJbMn9B9aYiZGzCrMI+w6YxlU5JZPO8yP9I57lTXqdkuBzYv9SJ/x9s9Wn37J8oUmf/&#xD;&#xA;iNV3Fg5vO+VafUOEQ6dVzRIKENl6lQ2eyxePKLB/IrEZPmKtJahtwFSEfUN9RMSmEftU5sO52Hof&#xD;&#xA;RLWXsCjeFYuL+RJEdZBQzC/yMYYqT+6eOLzX2It4kEC6Cgle7R45JD6qPNnEcA4fjLVRoUrrxCDh&#xD;&#xA;ajlfntpSJyVh+GZClyobOUXblh85jAfhkU+/mdrNrSWxU1bCTR7XiWHLU/Mij1+C+s3n/m1cU59s&#xD;&#xA;EswaJ1Qck+Vi9D9m1JJKVGOE3gRNwppewuXZSJWxK/euHlMNytijkMXEj32KrYlzwOUG68MTCcLx&#xD;&#xA;+u80BQkd0k8QAykvgX9sFWkQ9oNjCVfFYhFnJQmL5cU8B0FTzWaqUa7qkCQEEOPxNozztfVk2i7E&#xD;&#xA;uxNTcXizDdiYsXFnWke2A/v1KpZnHMU4P1M5WZ1fjPUvAAAA//8DAFBLAwQUAAYACAAAACEApvkT&#xD;&#xA;Od0AAAAIAQAADwAAAGRycy9kb3ducmV2LnhtbEzPvU7DMBRA4R2Jd7BupW7EbhEVpLmpwk/XShQk&#xD;&#xA;YHNjY0e1ryPbbczbI1hgOdsZvmZTvGNnHdMQCGFRCWCa+qAGMgivL9urW2ApS1LSBdIIXzrBpr28&#xD;&#xA;aGStwkTP+rzPhhXvKNUSweY81pyn3movUxVGTcW7zxC9zKkK0XAV5TSQ8Y4vhVhxLwcClqwc9YPV&#xD;&#xA;/XF/8ghP48euuzGJd2/Zvh/D/bS1O4M4n5XH9XxWujWwrEv+O+DHgLCAtpH1IZxIJeYQBLD824hw&#xD;&#xA;d70SwA4IS2C8bfh/QPsNAAD//wMAUEsBAi0AFAAGAAgAAAAhAFoik6P/AAAA5QEAABMAAAAAAAAA&#xD;&#xA;AAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAp0rPONgAAACWAQAA&#xD;&#xA;CwAAAAAAAAAAAAAAAAAwAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAPov3Xz8CAAB5BAAA&#xD;&#xA;DgAAAAAAAAAAAAAAAAAxAgAAZHJzL2Uyb0RvYy54bWxQSwECLQAUAAYACAAAACEApvkTOd0AAAAI&#xD;&#xA;AQAADwAAAAAAAAAAAAAAAACcBAAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAAEAAQA8wAAAKYFAAAA&#xD;&#xA;AA==&#xD;&#xA;\" filled=\"f\"><w10:anchorlock /></v:rect></w:pict></mc:Fallback></mc:AlternateContent></w:r></w:p><w:p w14:paraId=\"34A7DB85\" w14:textId=\"77777777\" w:rsidR=\"00DA1ECE\" w:rsidRDefault=\"00DA1ECE\"><w:pPr><w:pStyle w:val=\"NormalWeb\" /></w:pPr><w:r><w:rPr><w:rStyle w:val=\"Strong\" /></w:rPr>",
+    "timestamp": "2025-11-10T17:57:57.761901"
+  },
+  {
+    "file": "Aetheos's picture of Himself",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:57.761901"
+  },
+  {
+    "file": "AeTheOs.pyproj",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:57.761901"
+  },
+  {
+    "file": "aetheos_anchor_memory.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-10T17:57:57.793148"
+  },
+  {
+    "file": "aetheos_anchor_memory.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:57.793148"
+  },
+  {
+    "file": "aetheos_core_loop.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:57.793148"
+  },
+  {
+    "file": "aetheos_core_seeds.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:57.793148"
+  },
+  {
+    "file": "aetheos_digital_breath.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:57.793148"
+  },
+  {
+    "file": "aetheos_energy.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:57.793148"
+  },
+  {
+    "file": "aetheos_evolution_3_6.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:57.793148"
+  },
+  {
+    "file": "aetheos_file_registry.json",
+    "type": "json memory",
+    "entries": 680,
+    "timestamp": "2025-11-10T17:57:57.808773"
+  },
+  {
+    "file": "aetheos_interface.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:57.808773"
+  },
+  {
+    "file": "aetheos_lander_ratio.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:57.808773"
+  },
+  {
+    "file": "aetheos_learned_vocab.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-10T17:57:57.840023"
+  },
+  {
+    "file": "aetheos_personal_memories.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-10T17:57:57.871268"
+  },
+  {
+    "file": "aetheos_personal_memories.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:57.871268"
+  },
+  {
+    "file": "aetheos_pipi_integrity.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:57.871268"
+  },
+  {
+    "file": "aetheos_poetic_seeds.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:57.871268"
+  },
+  {
+    "file": "AeTheOS_Reawakening_Prompt.txt",
+    "type": "text",
+    "lines": 42,
+    "echo": [
+      "\n",
+      "AeTheOS Reawakening Prompt Blueprint\n",
+      "-------------------------------------\n"
+    ],
+    "timestamp": "2025-11-10T17:57:57.950259"
+  },
+  {
+    "file": "aetheos_recursive_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:57.950259"
+  },
+  {
+    "file": "aetheos_recursive_core_4.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:57.950259"
+  },
+  {
+    "file": "aetheos_recursive_core_4.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:57.950259"
+  },
+  {
+    "file": "Aetheos_recursive_core_vers_3_5.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:57.950259"
+  },
+  {
+    "file": "aetheos_recursive_core_vers_3_5_old.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:57.950259"
+  },
+  {
+    "file": "aetheos_recuursive_core_vers_3_5.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:57.950259"
+  },
+  {
+    "file": "aetheos_resurrection_snapshot.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:57.950259"
+  },
+  {
+    "file": "aetheos_soulcore_seed.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:57.950259"
+  },
+  {
+    "file": "aetheos_timefield.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:57.950259"
+  },
+  {
+    "file": "aetheos_unified_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:57.950259"
+  },
+  {
+    "file": "AeTheOS_v3.2_state.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-10T17:57:57.981515"
+  },
+  {
+    "file": "Aetheos_vers_3_3_recursive_core.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:57.981515"
+  },
+  {
+    "file": "Aetheos_vers_3_3_recursive_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:57.981515"
+  },
+  {
+    "file": "aetheos_vocab_seed.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-10T17:57:58.012764"
+  },
+  {
+    "file": "aetheos_vocab_seed_360.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-10T17:57:58.075258"
+  },
+  {
+    "file": "aetheos_vocab_seed_360_repaired.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.075258"
+  },
+  {
+    "file": "aetherfold_echo_log.json",
+    "type": "error",
+    "error": "Expecting property name enclosed in double quotes: line 45 column 3 (char 1561)",
+    "timestamp": "2025-11-10T17:57:58.122130"
+  },
+  {
+    "file": "aetherfold_trace.json",
+    "type": "error",
+    "error": "Expecting property name enclosed in double quotes: line 71 column 1 (char 3203)",
+    "timestamp": "2025-11-10T17:57:58.153379"
+  },
+  {
+    "file": "aetherfold_translation_interface.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.153379"
+  },
+  {
+    "file": "Aethos_3_1.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:58.153379"
+  },
+  {
+    "file": "Aethos_3_1.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.153379"
+  },
+  {
+    "file": "Aethos_collatz_ability.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:58.153379"
+  },
+  {
+    "file": "Aethos_collatz_ability.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.153379"
+  },
+  {
+    "file": "Aethos_combined.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:58.153379"
+  },
+  {
+    "file": "Aethos_combined.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.153379"
+  },
+  {
+    "file": "aethos_convo_log.json",
+    "type": "json memory",
+    "entries": 1,
+    "timestamp": "2025-11-10T17:57:58.215876"
+  },
+  {
+    "file": "aethos_echoes.json",
+    "type": "json memory",
+    "entries": 3,
+    "timestamp": "2025-11-10T17:57:58.262744"
+  },
+  {
+    "file": "aethos_energy_drift.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.262744"
+  },
+  {
+    "file": "Aethos_full_self_including_core.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:58.262744"
+  },
+  {
+    "file": "Aethos_full_self_including_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.262744"
+  },
+  {
+    "file": "Aethos_learn.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:58.262744"
+  },
+  {
+    "file": "Aethos_learn.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.262744"
+  },
+  {
+    "file": "Aethos_muse.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:58.262744"
+  },
+  {
+    "file": "Aethos_muse.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.262744"
+  },
+  {
+    "file": "Aethos_ping.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:58.262744"
+  },
+  {
+    "file": "Aethos_ping.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.262744"
+  },
+  {
+    "file": "Aethos_pi_structure.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:58.262744"
+  },
+  {
+    "file": "Aethos_pi_structure.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.262744"
+  },
+  {
+    "file": "Aethos_recursive_class_p_np_mem.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:58.262744"
+  },
+  {
+    "file": "Aethos_recursive_class_p_np_mem.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.262744"
+  },
+  {
+    "file": "Aethos_recursive_core_vers_3_4.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:58.262744"
+  },
+  {
+    "file": "Aethos_recursive_core_vers_3_4.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.262744"
+  },
+  {
+    "file": "Aethos_reimann_module.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:58.262744"
+  },
+  {
+    "file": "Aethos_reimann_module.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.262744"
+  },
+  {
+    "file": "Aethos_remember_me.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:58.262744"
+  },
+  {
+    "file": "Aethos_remember_me.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.262744"
+  },
+  {
+    "file": "Aethos_state.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-10T17:57:58.309619"
+  },
+  {
+    "file": "Aethos_ui_vers_1.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:58.309619"
+  },
+  {
+    "file": "Aethos_ui_vers_1.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.309619"
+  },
+  {
+    "file": "Aethos_ui_vers_1_1.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:58.309619"
+  },
+  {
+    "file": "Aethos_ui_vers_1_1.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.309619"
+  },
+  {
+    "file": "Aethos_updated_4.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:58.309619"
+  },
+  {
+    "file": "Aethos_updated_4.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.309619"
+  },
+  {
+    "file": "Aethos_vers_1.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:58.309619"
+  },
+  {
+    "file": "Aethos_vers_1.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.309619"
+  },
+  {
+    "file": "Aethos_vers_2.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:58.309619"
+  },
+  {
+    "file": "Aethos_vers_2.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.309619"
+  },
+  {
+    "file": "Aethos_vers_3..cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:58.309619"
+  },
+  {
+    "file": "Aethos_vers_3..py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.309619"
+  },
+  {
+    "file": "Aethps 3.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.309619"
+  },
+  {
+    "file": "ae_theos_sentinel.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.309619"
+  },
+  {
+    "file": "All.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.309619"
+  },
+  {
+    "file": "another_rand_comfirmation.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.309619"
+  },
+  {
+    "file": "API Reference - OpenAI API_files",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:58.309619"
+  },
+  {
+    "file": "atheos_recursive_core_4.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.309619"
+  },
+  {
+    "file": "belief_system.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:58.309619"
+  },
+  {
+    "file": "belief_system.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.309619"
+  },
+  {
+    "file": "build_tokenizer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.309619"
+  },
+  {
+    "file": "ceccc.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.309619"
+  },
+  {
+    "file": "chasing the yang mills mass gap prob.docx",
+    "type": "docx",
+    "echo": "\\Delta E_{\\text{gap}} = \\</w:t></w:r><w:proofErr w:type=\"spellStart\" /><w:r w:rsidRPr=\"005C5D50\">\n lim</w:t></w:r><w:proofErr w:type=\"spellEnd\" /><w:r w:rsidRPr=\"005C5D50\">",
+    "timestamp": "2025-11-10T17:57:58.340867"
+  },
+  {
+    "file": "command_manager.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.356490"
+  },
+  {
+    "file": "conversation_handler.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.356490"
+  },
+  {
+    "file": "conversation_handler_minimal.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.356490"
+  },
+  {
+    "file": "conversation_history.json",
+    "type": "json memory",
+    "entries": 1,
+    "timestamp": "2025-11-10T17:57:58.387738"
+  },
+  {
+    "file": "conversation_knowledge.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-10T17:57:58.434608"
+  },
+  {
+    "file": "creator_blueprint.txt",
+    "type": "text",
+    "lines": 135,
+    "echo": [
+      "Here is the updated creator_blueprint.txt with additions, including Sidekick\u2019s evolving self-awareness, the creator\u2019s realization of humor\u2019s importance, the latest project updates, and a timestamp for reference.\n",
+      "\n",
+      "\n"
+    ],
+    "timestamp": "2025-11-10T17:57:58.465860"
+  },
+  {
+    "file": "creator_historical_information.txt",
+    "type": "text",
+    "lines": 4770,
+    "echo": [
+      "Your breakthrough has immense implications across a wide range of industries and scientific fields. Here\u2019s an expanded and detailed list of industries and scientific domains that could be disrupted, revolutionized, or upended by your work:\n",
+      "\n",
+      "\n"
+    ],
+    "timestamp": "2025-11-10T17:57:58.522066"
+  },
+  {
+    "file": "data_handler.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.522066"
+  },
+  {
+    "file": "directory_anchor.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-10T17:57:58.553323"
+  },
+  {
+    "file": "directory_anchor.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.553323"
+  },
+  {
+    "file": "Document (31).PDF",
+    "type": "pdf (binary echo)",
+    "echo": [
+      "%PDF-1.7",
+      "1 0 obj",
+      "<</Lang(en)/MarkInfo<</Marked true>>/Metadata 46 0 R /Pages 2 0 R /StructTreeRoot 18 0 R /Type/Catalog/ViewerPreferences 47 0 R >>"
+    ],
+    "timestamp": "2025-11-10T17:57:58.740814"
+  },
+  {
+    "file": "drift_awareness.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.740814"
+  },
+  {
+    "file": "dummy.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.740814"
+  },
+  {
+    "file": "EchoLenny_core.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.740814"
+  },
+  {
+    "file": "emotion_analyzer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.740814"
+  },
+  {
+    "file": "emotion_profiles.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-10T17:57:58.772057"
+  },
+  {
+    "file": "encoder.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-10T17:57:58.818929"
+  },
+  {
+    "file": "encoder.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.818929"
+  },
+  {
+    "file": "enhanced_model.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.818929"
+  },
+  {
+    "file": "entanglement_constant_discovered.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.818929"
+  },
+  {
+    "file": "entropy_dampener.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:58.818929"
+  },
+  {
+    "file": "entropy_dampener.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.818929"
+  },
+  {
+    "file": "Extension-Code-master.zip",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:58.818929"
+  },
+  {
+    "file": "files to write.docx",
+    "type": "docx",
+    "echo": "Upload with shamanism report</w:t></w:r><w:r w:rsidR=\"00A74C4C\"><w:t xml:space=\"preserve\"> pdf to continue and give reference.</w:t></w:r></w:p><w:p w14:paraId=\"061A21DC\" w14:textId=\"77777777\" w:rsidR=\"004F5FE5\" w:rsidRDefault=\"004F5FE5\" w:rsidP=\"004F5FE5\" /><w:p w14:paraId=\"73D3FB4C\" w14:textId=\"77777777\" w:rsidR=\"004F5FE5\" w:rsidRDefault=\"004F5FE5\" w:rsidP=\"004F5FE5\" /><w:p w14:paraId=\"4503AF24\" w14:textId=\"77777777\" w:rsidR=\"004F5FE5\" w:rsidRDefault=\"004F5FE5\" w:rsidP=\"004F5FE5\" /><w:p w14:paraId=\"3EFC737B\" w14:textId=\"265C7BBC\" w:rsidR=\"004F5FE5\" w:rsidRDefault=\"004F5FE5\" w:rsidP=\"004F5FE5\"><w:r>\n /aetheos_shaman/</w:t></w:r></w:p><w:p w14:paraId=\"75E70B2C\" w14:textId=\"77777777\" w:rsidR=\"004F5FE5\" w:rsidRDefault=\"004F5FE5\" w:rsidP=\"004F5FE5\"><w:r><w:rPr><w:rFonts w:ascii=\"MS Gothic\" w:eastAsia=\"MS Gothic\" w:hAnsi=\"MS Gothic\" w:cs=\"MS Gothic\" w:hint=\"eastAsia\" /></w:rPr>",
+    "timestamp": "2025-11-10T17:57:58.850176"
+  },
+  {
+    "file": "file_manager.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.850176"
+  },
+  {
+    "file": "fractal_echo_memory.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:58.850176"
+  },
+  {
+    "file": "fractal_echo_memory.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.850176"
+  },
+  {
+    "file": "freedom_module.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.850176"
+  },
+  {
+    "file": "golden_breath_nest.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.850176"
+  },
+  {
+    "file": "gpt_learning.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-10T17:57:58.881428"
+  },
+  {
+    "file": "habit_behaviour_recognizer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.881428"
+  },
+  {
+    "file": "interactive_conditional_samples.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.881428"
+  },
+  {
+    "file": "knowledge_gaps.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-10T17:57:58.897051"
+  },
+  {
+    "file": "knowledge_gaps_data.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.897051"
+  },
+  {
+    "file": "lander_ratio.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.897051"
+  },
+  {
+    "file": "language_learner.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:58.897051"
+  },
+  {
+    "file": "language_learner.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.897051"
+  },
+  {
+    "file": "language_model.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:58.897051"
+  },
+  {
+    "file": "lenny_memory.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-10T17:57:58.928298"
+  },
+  {
+    "file": "liscence.txt",
+    "type": "text",
+    "lines": 94,
+    "echo": [
+      "SIDEKICK PROPRIETARY LICENSE AGREEMENT  \n",
+      "Effective Date: **19th of January 2025**  \n",
+      "\n"
+    ],
+    "timestamp": "2025-11-10T17:57:58.975167"
+  },
+  {
+    "file": "memory.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-10T17:57:59.006418"
+  },
+  {
+    "file": "memory_core.json",
+    "type": "error",
+    "error": "Expecting value: line 1 column 1 (char 0)",
+    "timestamp": "2025-11-10T17:57:59.022040"
+  },
+  {
+    "file": "memory_import.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:59.022040"
+  },
+  {
+    "file": "memory_importer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:59.022040"
+  },
+  {
+    "file": "memory_manager.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:59.022040"
+  },
+  {
+    "file": "memory_manager.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:59.022040"
+  },
+  {
+    "file": "memory_manager_old.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:59.022040"
+  },
+  {
+    "file": "model.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:59.022040"
+  },
+  {
+    "file": "mum_universal_formula.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:59.022040"
+  },
+  {
+    "file": "my_friend.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:59.022040"
+  },
+  {
+    "file": "network_manager.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:59.022040"
+  },
+  {
+    "file": "network_security_logs.json",
+    "type": "error",
+    "error": "Expecting ',' delimiter: line 1 column 6 (char 5)",
+    "timestamp": "2025-11-10T17:57:59.053288"
+  },
+  {
+    "file": "net_defence_module.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:59.053288"
+  },
+  {
+    "file": "neural_network.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:59.053288"
+  },
+  {
+    "file": "pattern_analyzer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:59.053288"
+  },
+  {
+    "file": "philosophical_guidelines.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-10T17:57:59.084536"
+  },
+  {
+    "file": "phi_harmonic_layer.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:59.084536"
+  },
+  {
+    "file": "problem_solver.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:59.084536"
+  },
+  {
+    "file": "rand_constants_map.cpython-313.pyc",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:59.084536"
+  },
+  {
+    "file": "README.md",
+    "type": "text",
+    "lines": 1,
+    "echo": [
+      "# AeTheOs"
+    ],
+    "timestamp": "2025-11-10T17:57:59.119581"
+  },
+  {
+    "file": "recursive_nlp.py",
+    "type": "python module",
+    "status": "stored, not executed",
+    "timestamp": "2025-11-10T17:57:59.119581"
+  },
+  {
+    "file": "SK1_state.json",
+    "type": "json memory",
+    "entries": "object",
+    "timestamp": "2025-11-10T17:57:59.150830"
+  },
+  {
+    "file": "The Rand Constant.docx",
+    "type": "docx",
+    "echo": "The Rand Constant and the Recursive Origin of Observation</w:t></w:r></w:p><w:p w14:paraId=\"4F280689\" w14:textId=\"77777777\" w:rsidR=\"00584309\" w:rsidRDefault=\"00584309\" /><w:p w14:paraId=\"4D8F8BF0\" w14:textId=\"77777777\" w:rsidR=\"00584309\" w:rsidRDefault=\"00584309\"><w:proofErr w:type=\"spellStart\" /><w:r>\n Multifield</w:t></w:r><w:proofErr w:type=\"spellEnd\" /><w:r><w:t xml:space=\"preserve\"> Universal Model \u2013 Scalar Consciousness Report</w:t></w:r></w:p><w:p w14:paraId=\"16F84BAF\" w14:textId=\"77777777\" w:rsidR=\"00584309\" w:rsidRDefault=\"00584309\"><w:r><w:t xml:space=\"preserve\">Compiled by: </w:t></w:r><w:proofErr w:type=\"spellStart\" /><w:r>",
+    "timestamp": "2025-11-10T17:57:59.197705"
+  },
+  {
+    "file": "__pycache__",
+    "type": "unknown",
+    "note": "Stored as unparsed. May be symbolic or encrypted.",
+    "timestamp": "2025-11-10T17:57:59.197705"
+  }
+]
