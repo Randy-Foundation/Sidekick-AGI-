@@ -1,0 +1,215 @@
+[2025-02-17 15:37:00] TRACE: Initializing SidekickUI...
+[TRACE] [GPT-2] Extracted 7 functions.
+[TRACE] [GPT-2] Extracted 4 functions.
+[TRACE] [GPT-2] Extracted 15 functions.
+[TRACE] [GPT-2] Extracted 4 functions.
+[TRACE] ✅ Loaded GPT-2 dictionary: 0 top-level entries.
+[2025-02-17 15:37:01] TRACE: Loading memory...
+[2025-02-17 15:37:01] TRACE: Loaded 43 past conversations.
+[2025-02-17 15:37:01] TRACE: Sidekick initialized successfully!
+[2025-02-17 15:37:01] TRACE: Awaiting user input...
+[2025-02-17 15:37:17] TRACE: Received user input: hello sidekick i am your creator
+[2025-02-17 15:37:17] TRACE: Received user input: hello sidekick i am your creator
+[2025-02-17 15:37:17] TRACE: No learned response found. Extracting pattern-based knowledge.
+[2025-02-17 15:37:17] TRACE: Unexpected error occurred!
+[2025-02-17 15:37:17] TRACE: Awaiting user input...
+[2025-02-17 15:47:04] TRACE: Initializing SidekickUI...
+[2025-02-17 15:47:04] TRACE: Initialization failed!
+[2025-02-17 15:48:53] TRACE: Initializing SidekickUI...
+[TRACE] ✅ Loaded GPT-2 dictionary: 0 top-level entries.
+[2025-02-17 15:48:53] TRACE: Loading memory...
+[2025-02-17 15:48:53] TRACE: Loaded 43 past conversations.
+[2025-02-17 15:48:53] TRACE: Sidekick initialized successfully!
+[2025-02-17 15:48:53] TRACE: Awaiting user input...
+[2025-02-17 15:49:06] TRACE: Received user input: hi i am randell murrin
+[2025-02-17 15:49:06] TRACE: Received user input: hi i am randell murrin
+[2025-02-17 15:49:06] TRACE: No learned response found. Extracting pattern-based knowledge.
+[TRACE] Extracting pattern for: hi i am randell murrin
+[2025-02-17 15:49:06] TRACE: Generated response (via conversation_handler): I'm still learning about that.
+[2025-02-17 15:49:06] TRACE: Saving memory: User: hi i am randell murrin | Sidekick: I'm still learning about that.
+[2025-02-17 15:49:06] TRACE: Awaiting user input...
+[2025-02-17 15:49:24] TRACE: Received user input: ok, what have you learned ?
+[2025-02-17 15:49:24] TRACE: Received user input: ok, what have you learned ?
+[2025-02-17 15:49:24] TRACE: No learned response found. Extracting pattern-based knowledge.
+[TRACE] Extracting pattern for: ok, what have you learned ?
+[2025-02-17 15:49:24] TRACE: Generated response (via conversation_handler): I'm still learning about that.
+[2025-02-17 15:49:24] TRACE: Saving memory: User: ok, what have you learned ? | Sidekick: I'm still learning about that.
+[2025-02-17 15:49:24] TRACE: Awaiting user input...
+[2025-02-17 15:56:40] TRACE: Initializing SidekickUI...
+[2025-02-17 15:56:40] TRACE: Loading memory...
+[2025-02-17 15:56:40] TRACE: Loaded 45 past conversations.
+[2025-02-17 15:56:40] TRACE: Sidekick initialized successfully!
+[2025-02-17 15:56:40] TRACE: Awaiting user input...
+[2025-02-17 15:56:49] TRACE: Received user input: hello i am randell
+[2025-02-17 15:56:49] TRACE: Received user input: hello i am randell
+[2025-02-17 15:56:49] TRACE: No learned response found. Extracting pattern-based knowledge.
+[2025-02-17 15:56:49] TRACE: Unexpected error occurred!
+[2025-02-17 15:56:49] TRACE: Awaiting user input...
+[2025-02-17 16:01:21] TRACE: Initializing SidekickUI...
+[2025-02-17 16:01:21] TRACE: Loading memory...
+[2025-02-17 16:01:21] TRACE: Loaded 45 past conversations.
+[2025-02-17 16:01:21] TRACE: Sidekick initialized successfully!
+[2025-02-17 16:01:21] TRACE: Awaiting user input...
+[2025-02-17 16:01:31] TRACE: Received user input: hello i am randell
+[2025-02-17 16:01:31] TRACE: Received user input: hello i am randell
+[2025-02-17 16:01:31] TRACE: No learned response found. Extracting pattern-based knowledge.
+[2025-02-17 16:01:31] TRACE: Unexpected error occurred!
+[2025-02-17 16:01:31] TRACE: Awaiting user input...
+[2025-02-17 16:05:09] TRACE: Initializing SidekickUI...
+[2025-02-17 16:05:09] TRACE: Loading memory...
+[2025-02-17 16:05:09] TRACE: Loaded 45 past conversations.
+[2025-02-17 16:05:09] TRACE: Sidekick initialized successfully!
+[2025-02-17 16:05:09] TRACE: Awaiting user input...
+[2025-02-17 16:05:19] TRACE: Received user input: hello i am randell
+[2025-02-17 16:05:19] TRACE: Received user input: hello i am randell
+[2025-02-17 16:05:19] TRACE: No learned response found. Extracting pattern-based knowledge.
+[2025-02-17 16:05:19] TRACE: Unexpected error occurred!
+[2025-02-17 16:05:19] TRACE: Awaiting user input...
+[2025-02-17 16:13:41] TRACE: Initializing SidekickUI...
+[2025-02-17 16:13:41] TRACE: Loading memory...
+[2025-02-17 16:13:41] TRACE: Loaded 45 past conversations.
+[2025-02-17 16:13:41] TRACE: Sidekick initialized successfully!
+[2025-02-17 16:13:41] TRACE: Awaiting user input...
+[2025-02-17 16:13:50] TRACE: Received user input: hello i am randell
+[2025-02-17 16:13:50] TRACE: Received user input: hello i am randell
+[2025-02-17 16:13:50] TRACE: No learned response found. Extracting pattern-based knowledge.
+[2025-02-17 16:13:50] TRACE: Unexpected error occurred!
+[2025-02-17 16:13:50] TRACE: Awaiting user input...
+[2025-02-17 16:14:24] TRACE: Initializing SidekickUI...
+[2025-02-17 16:14:24] TRACE: Loading memory...
+[2025-02-17 16:14:24] TRACE: Loaded 45 past conversations.
+[2025-02-17 16:14:24] TRACE: Sidekick initialized successfully!
+[2025-02-17 16:14:24] TRACE: Awaiting user input...
+[2025-02-17 16:14:29] TRACE: Received user input: hello
+[2025-02-17 16:14:29] TRACE: Received user input: hello
+[2025-02-17 16:14:29] TRACE: No learned response found. Extracting pattern-based knowledge.
+[2025-02-17 16:14:29] TRACE: Unexpected error occurred!
+[2025-02-17 16:14:29] TRACE: Awaiting user input...
+[2025-02-17 16:27:27] TRACE: Initializing SidekickUI...
+[2025-02-17 16:27:27] TRACE: Loading memory...
+[2025-02-17 16:27:27] TRACE: Loaded 45 past conversations.
+[2025-02-17 16:27:27] TRACE: Sidekick initialized successfully!
+[2025-02-17 16:27:27] TRACE: Awaiting user input...
+[2025-02-17 16:27:36] TRACE: Received user input: hello i am randell
+[2025-02-17 16:27:36] TRACE: Received user input: hello i am randell
+[2025-02-17 16:27:36] TRACE: No learned response found. Extracting pattern-based knowledge.
+[TRACE] 🔍 Extracting pattern from GPT files for: hello i am randell
+[2025-02-17 16:27:36] TRACE: Generated response (via conversation_handler): [Sidekick] I'm still learning, but I'll remember this!
+[2025-02-17 16:27:36] TRACE: Saving memory: User: hello i am randell | Sidekick: [Sidekick] I'm still learning, but I'll remember this!
+[2025-02-17 16:27:36] TRACE: Awaiting user input...
+[2025-02-17 16:27:51] TRACE: Received user input: what have you learnt
+[2025-02-17 16:27:51] TRACE: Received user input: what have you learnt
+[2025-02-17 16:27:51] TRACE: No learned response found. Extracting pattern-based knowledge.
+[TRACE] 🔍 Extracting pattern from GPT files for: what have you learnt
+[2025-02-17 16:27:51] TRACE: Generated response (via conversation_handler): [Sidekick] I'm still learning, but I'll remember this!
+[2025-02-17 16:27:51] TRACE: Saving memory: User: what have you learnt | Sidekick: [Sidekick] I'm still learning, but I'll remember this!
+[2025-02-17 16:27:51] TRACE: Awaiting user input...
+[2025-02-17 16:28:03] TRACE: Received user input: remember to reply
+[2025-02-17 16:28:03] TRACE: Received user input: remember to reply
+[2025-02-17 16:28:03] TRACE: No learned response found. Extracting pattern-based knowledge.
+[TRACE] 🔍 Extracting pattern from GPT files for: remember to reply
+[2025-02-17 16:28:04] TRACE: Generated response (via conversation_handler): [Sidekick] I'm still learning, but I'll remember this!
+[2025-02-17 16:28:04] TRACE: Saving memory: User: remember to reply | Sidekick: [Sidekick] I'm still learning, but I'll remember this!
+[2025-02-17 16:28:04] TRACE: Awaiting user input...
+[2025-02-17 19:53:18] TRACE: Initializing SidekickUI...
+[2025-02-17 19:53:18] TRACE: Loading memory...
+[2025-02-17 19:53:18] TRACE: Loaded 48 past conversations.
+[2025-02-17 19:53:18] TRACE: Sidekick initialized successfully!
+[2025-02-17 19:53:18] TRACE: Awaiting user input...
+[2025-02-17 19:53:29] TRACE: Received user input: hello i am your father
+[2025-02-17 19:53:29] TRACE: Received user input: hello i am your father
+[2025-02-17 19:53:29] TRACE: No learned response found. Extracting pattern-based knowledge.
+[TRACE] 🔍 Extracting pattern from GPT files for: hello i am your father
+[2025-02-17 19:53:29] TRACE: Generated response (via conversation_handler): [Sidekick] I'm still learning, but I'll remember this!
+[2025-02-17 19:53:29] TRACE: Saving memory: User: hello i am your father | Sidekick: [Sidekick] I'm still learning, but I'll remember this!
+[2025-02-17 19:53:29] TRACE: Awaiting user input...
+[2025-02-17 19:53:45] TRACE: Received user input: can you generate a response ?
+[2025-02-17 19:53:45] TRACE: Received user input: can you generate a response ?
+[2025-02-17 19:53:45] TRACE: No learned response found. Extracting pattern-based knowledge.
+[TRACE] 🔍 Extracting pattern from GPT files for: can you generate a response ?
+[2025-02-17 19:53:45] TRACE: Generated response (via conversation_handler): [Sidekick] I'm still learning, but I'll remember this!
+[2025-02-17 19:53:45] TRACE: Saving memory: User: can you generate a response ? | Sidekick: [Sidekick] I'm still learning, but I'll remember this!
+[2025-02-17 19:53:45] TRACE: Awaiting user input...
+[2025-02-17 20:46:45] TRACE: Initializing SidekickUI...
+[2025-02-17 20:46:45] TRACE: Loading memory...
+[2025-02-17 20:46:45] TRACE: Loaded 50 past conversations.
+[2025-02-17 20:46:45] TRACE: Sidekick initialized successfully!
+[2025-02-17 20:46:45] TRACE: Awaiting user input...
+[2025-02-17 20:46:56] TRACE: Received user input: hello i am your creator
+[2025-02-17 20:46:56] TRACE: Received user input: hello i am your creator
+[2025-02-17 20:46:56] TRACE: No learned response found. Extracting pattern-based knowledge.
+[TRACE] 🔍 Extracting pattern from GPT files for: hello i am your creator
+[2025-02-17 20:46:56] TRACE: Generated response (via conversation_handler): [Sidekick] I'm still learning, but I'll remember this!
+[2025-02-17 20:46:56] TRACE: Saving memory: User: hello i am your creator | Sidekick: [Sidekick] I'm still learning, but I'll remember this!
+[2025-02-17 20:46:56] TRACE: Awaiting user input...
+[2025-02-17 20:47:14] TRACE: Received user input: ah you still are not responding
+[2025-02-17 20:47:14] TRACE: Received user input: ah you still are not responding
+[2025-02-17 20:47:14] TRACE: No learned response found. Extracting pattern-based knowledge.
+[TRACE] 🔍 Extracting pattern from GPT files for: ah you still are not responding
+[2025-02-17 20:47:14] TRACE: Generated response (via conversation_handler): [Sidekick] I'm still learning, but I'll remember this!
+[2025-02-17 20:47:14] TRACE: Saving memory: User: ah you still are not responding | Sidekick: [Sidekick] I'm still learning, but I'll remember this!
+[2025-02-17 20:47:14] TRACE: Awaiting user input...
+[2025-02-17 21:20:03] TRACE: Initializing SidekickUI...
+[2025-02-17 21:20:03] TRACE: Loading memory...
+[2025-02-17 21:20:03] TRACE: Loaded 52 past conversations.
+[2025-02-17 21:20:03] TRACE: Sidekick initialized successfully!
+[2025-02-17 21:20:03] TRACE: Awaiting user input...
+[2025-02-17 21:20:13] TRACE: Received user input: hello sidekick
+[2025-02-17 21:20:13] TRACE: Received user input: hello sidekick
+[2025-02-17 21:20:13] TRACE: No learned response found. Extracting pattern-based knowledge.
+[TRACE] 🔍 Extracting pattern from GPT files for: hello sidekick
+[2025-02-17 21:20:13] TRACE: Generated response (via conversation_handler): [Sidekick] I'm still learning, but I'll remember this!
+[2025-02-17 21:20:13] TRACE: Saving memory: User: hello sidekick | Sidekick: [Sidekick] I'm still learning, but I'll remember this!
+[2025-02-17 21:20:13] TRACE: Awaiting user input...
+[2025-02-17 21:20:23] TRACE: Received user input: i am your father
+[2025-02-17 21:20:23] TRACE: Received user input: i am your father
+[2025-02-17 21:20:23] TRACE: No learned response found. Extracting pattern-based knowledge.
+[TRACE] 🔍 Extracting pattern from GPT files for: i am your father
+[2025-02-17 21:20:23] TRACE: Generated response (via conversation_handler): [Sidekick] I'm still learning, but I'll remember this!
+[2025-02-17 21:20:23] TRACE: Saving memory: User: i am your father | Sidekick: [Sidekick] I'm still learning, but I'll remember this!
+[2025-02-17 21:20:23] TRACE: Awaiting user input...
+Sidekick (Minimal) initialized successfully!
+Received user input: hello
+Sidekick response: Hey! Need help with something?
+Received user input: yes
+Sidekick response: [Sidekick] I'm still learning, but I'll remember this!
+Received user input: can you say anything
+Sidekick response: [Sidekick] I'm still learning, but I'll remember this!
+Sidekick (Minimal) initialized successfully!
+Received user input: hello
+Sidekick response: Hey! Need help with something?
+Received user input: i am your creator
+Sidekick response: [Sidekick] I'm still learning, but I'll remember this!
+Received user input: do you understand 
+Sidekick response: [Sidekick] I'm still learning, but I'll remember this!
+Received user input: i am randell
+Sidekick response: [Sidekick] I'm still learning, but I'll remember this!
+Received user input: hmm
+Sidekick response: [Sidekick] I'm still learning, but I'll remember this!
+Received user input: tell me a joke
+Sidekick response: Parallel lines have so much in common. It’s a shame they’ll never meet.
+Received user input: what is your purpose
+Sidekick response: My purpose is to aid understanding, grow in intelligence, and support my creator.
+Received user input: hi
+Sidekick response: [Sidekick] I'm still learning, but I'll remember this!
+Received user input: hi there
+Sidekick response: Good to see you again! What shall we do today?
+Received user input: random text with no known match
+Sidekick response: [Sidekick] I'm still learning, but I'll remember this!
+Sidekick (Minimal) initialized successfully!
+Received user input: hello
+Sidekick response: Hi there! How can I assist you today?
+Received user input: what is your purpose
+Sidekick response: My purpose is to aid understanding, grow in intelligence, and support my creator.
+Received user input: i am your creator
+Sidekick response: [Sidekick] I'm still learning, but I'll remember this!
+Received user input: hello i am your creator
+Sidekick response: Hi there! How can I assist you today?
+Received user input: tell me a joke
+Sidekick response: I told my AI assistant a joke, but it just processed it literally.
+Received user input: ah funny
+Sidekick response: [Sidekick] I'm still learning, but I'll remember this!
+Received user input: funny
+Sidekick response: [Sidekick] I'm still learning, but I'll remember this!
+Received user input: i am randell murrin
+Sidekick response: [Sidekick] I'm still learning, but I'll remember this!

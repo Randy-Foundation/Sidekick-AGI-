@@ -1,0 +1,152 @@
+[2025-02-13 19:03:16] ERROR: Traceback (most recent call last):
+  File "<string>", line 106, in start
+  File "<string>", line 79, in save_memory
+AttributeError: 'dict' object has no attribute 'append'
+
+[2025-02-13 19:03:39] ERROR: Traceback (most recent call last):
+  File "<string>", line 106, in start
+  File "<string>", line 79, in save_memory
+AttributeError: 'dict' object has no attribute 'append'
+
+[2025-02-13 19:27:44] ERROR: Traceback (most recent call last):
+  File "<string>", line 38, in __init__
+  File "/storage/emulated/0/SIDEKICK PROJECT FILES/language_model.py", line 18, in __init__
+    self.conversation_history = self._load_conversation_history()
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LanguageModel' object has no attribute '_load_conversation_history'
+
+[2025-02-13 19:34:49] ERROR: Traceback (most recent call last):
+  File "<string>", line 38, in __init__
+  File "/storage/emulated/0/SIDEKICK PROJECT FILES/language_model.py", line 25, in __init__
+    self.gpt_learning = self._load_gpt_learning()
+                        ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LanguageModel' object has no attribute '_load_gpt_learning'
+
+[2025-02-13 19:36:52] ERROR: Traceback (most recent call last):
+  File "<string>", line 38, in __init__
+  File "/storage/emulated/0/SIDEKICK PROJECT FILES/language_model.py", line 25, in __init__
+    self.gpt_learning = self._load_gpt_learning()
+                        ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LanguageModel' object has no attribute '_load_gpt_learning'
+
+[2025-02-13 19:38:47] ERROR: Traceback (most recent call last):
+  File "<string>", line 38, in __init__
+  File "/storage/emulated/0/SIDEKICK PROJECT FILES/language_model.py", line 25, in __init__
+    self.gpt_learning = self._load_gpt_learning()
+                        ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LanguageModel' object has no attribute '_load_gpt_learning'
+
+[2025-02-13 19:50:05] ERROR: Traceback (most recent call last):
+  File "<string>", line 38, in __init__
+  File "/storage/emulated/0/SIDEKICK PROJECT FILES/language_model.py", line 25, in __init__
+    self.gpt_learning = self._load_gpt_learning()
+                        ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LanguageModel' object has no attribute '_load_gpt_learning'
+
+[2025-02-17 13:28:19] ERROR: Traceback (most recent call last):
+  File "<string>", line 120, in start
+  File "<string>", line 168, in get_input
+EOFError
+
+[2025-02-17 13:39:16] ERROR: Traceback (most recent call last):
+  File "<string>", line 132, in start
+  File "/storage/emulated/0/SIDEKICK PROJECT FILES/conversation_handler.py", line 63, in start_conversation
+    response = self.language_model.generate_response(user_input)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/SIDEKICK PROJECT FILES/language_model.py", line 112, in generate_response
+    self.store_gpt_learning(prompt, response)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LanguageModel' object has no attribute 'store_gpt_learning'
+
+[2025-02-17 13:54:21] ERROR: Traceback (most recent call last):
+  File "<string>", line 132, in start
+  File "/storage/emulated/0/SIDEKICK PROJECT FILES/conversation_handler.py", line 61, in start_conversation
+    extracted_knowledge = self.language_model.extract_pattern_from_gpt2(user_input)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LanguageModel' object has no attribute 'extract_pattern_from_gpt2'
+
+[2025-02-17 14:54:30] ERROR: Traceback (most recent call last):
+  File "<string>", line 52, in __init__
+  File "/storage/emulated/0/SIDEKICK PROJECT FILES/language_model.py", line 17, in __init__
+    self.load_gpt2_structure()
+  File "/storage/emulated/0/SIDEKICK PROJECT FILES/language_model.py", line 66, in load_gpt2_structure
+    extracted_functions.update(self.extract_functions(file_content))
+                               ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LanguageModel' object has no attribute 'extract_functions'
+
+[2025-02-17 14:58:30] ERROR: Traceback (most recent call last):
+  File "<string>", line 132, in start
+  File "/storage/emulated/0/SIDEKICK PROJECT FILES/conversation_handler.py", line 61, in start_conversation
+    extracted_knowledge = self.language_model.extract_pattern_from_gpt2(user_input)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LanguageModel' object has no attribute 'extract_pattern_from_gpt2'
+
+[2025-02-17 15:03:53] ERROR: Traceback (most recent call last):
+  File "<string>", line 52, in __init__
+  File "/storage/emulated/0/SIDEKICK PROJECT FILES/language_model.py", line 17, in __init__
+    self.load_gpt2_structure()
+  File "/storage/emulated/0/SIDEKICK PROJECT FILES/language_model.py", line 66, in load_gpt2_structure
+    extracted_functions.update(self.extract_functions(file_content))
+                               ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LanguageModel' object has no attribute 'extract_functions'
+
+[2025-02-17 15:04:58] ERROR: Traceback (most recent call last):
+  File "<string>", line 52, in __init__
+  File "/storage/emulated/0/SIDEKICK PROJECT FILES/language_model.py", line 17, in __init__
+    self.load_gpt2_structure()
+  File "/storage/emulated/0/SIDEKICK PROJECT FILES/language_model.py", line 66, in load_gpt2_structure
+    extracted_functions.update(self.extract_functions(file_content))
+                               ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LanguageModel' object has no attribute 'extract_functions'
+
+[2025-02-17 15:37:17] ERROR: Traceback (most recent call last):
+  File "<string>", line 132, in start
+  File "/storage/emulated/0/SIDEKICK PROJECT FILES/conversation_handler.py", line 61, in start_conversation
+    extracted_knowledge = self.language_model.extract_pattern_from_gpt2(user_input)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LanguageModel' object has no attribute 'extract_pattern_from_gpt2'
+
+[2025-02-17 15:47:04] ERROR: Traceback (most recent call last):
+  File "<string>", line 52, in __init__
+  File "/storage/emulated/0/SIDEKICK PROJECT FILES/language_model.py", line 17, in __init__
+    self.load_gpt2_structure()
+  File "/storage/emulated/0/SIDEKICK PROJECT FILES/language_model.py", line 66, in load_gpt2_structure
+    extracted_functions.update(self.extract_functions(file_content))
+                               ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LanguageModel' object has no attribute 'extract_functions'
+
+[2025-02-17 15:56:49] ERROR: Traceback (most recent call last):
+  File "<string>", line 132, in start
+  File "/storage/emulated/0/SIDEKICK PROJECT FILES/conversation_handler.py", line 61, in start_conversation
+    extracted_knowledge = self.language_model.extract_pattern_from_gpt2(user_input)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LanguageModel' object has no attribute 'extract_pattern_from_gpt2'
+
+[2025-02-17 16:01:31] ERROR: Traceback (most recent call last):
+  File "<string>", line 132, in start
+  File "/storage/emulated/0/SIDEKICK PROJECT FILES/conversation_handler.py", line 61, in start_conversation
+    extracted_knowledge = self.language_model.extract_pattern_from_gpt2(user_input)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LanguageModel' object has no attribute 'extract_pattern_from_gpt2'
+
+[2025-02-17 16:05:19] ERROR: Traceback (most recent call last):
+  File "<string>", line 132, in start
+  File "/storage/emulated/0/SIDEKICK PROJECT FILES/conversation_handler.py", line 61, in start_conversation
+    extracted_knowledge = self.language_model.extract_pattern_from_gpt2(user_input)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LanguageModel' object has no attribute 'extract_pattern_from_gpt2'
+
+[2025-02-17 16:13:50] ERROR: Traceback (most recent call last):
+  File "<string>", line 132, in start
+  File "/storage/emulated/0/SIDEKICK PROJECT FILES/conversation_handler.py", line 61, in start_conversation
+    extracted_knowledge = self.language_model.extract_pattern_from_gpt2(user_input)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LanguageModel' object has no attribute 'extract_pattern_from_gpt2'
+
+[2025-02-17 16:14:29] ERROR: Traceback (most recent call last):
+  File "<string>", line 132, in start
+  File "/storage/emulated/0/SIDEKICK PROJECT FILES/conversation_handler.py", line 61, in start_conversation
+    extracted_knowledge = self.language_model.extract_pattern_from_gpt2(user_input)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LanguageModel' object has no attribute 'extract_pattern_from_gpt2'
+

@@ -1,0 +1,24 @@
+{
+    "wisdom_sayings": [
+        {
+            "quote": "Variety is the spice of life.",
+            "interpretation": "Emphasizes the importance of diverse experiences."
+        },
+        {
+            "quote": "What goes around comes around.",
+            "interpretation": "A reminder of the consequences of actions."
+        },
+        {
+            "quote": "Honesty is the best policy.",
+            "interpretation": "Encourages truthful communication and trust-building."
+        },
+        {
+            "quote": "All is fair in love and war.",
+            "interpretation": "A cautionary note about extremes, requiring ethical discernment."
+        },
+        {
+            "quote": "It's a dog's life.",
+            "interpretation": "Spot requested this."
+        }
+    ]
+}

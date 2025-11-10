@@ -1,4 +1,3 @@
-from problem_solver import problem solver
 import os
 import json
 from math import sqrt, pi, exp

@@ -1,0 +1,107 @@
+{
+  "name": "vsshare",
+  "displayName": "VSShare",
+  "description": "VSShare broadcast extension for Visual Studio Code.",
+  "version": "0.1.2",
+  "publisher": "bonprosoft",
+  "engines": {
+    "vscode": "^0.10.1"
+  },
+  "categories": [
+    "Other"
+  ],
+  "icon": "images/logo-128.png",
+  "galleryBanner": {
+    "color": "#691b7c",
+    "theme": "dark"
+  },
+  "bugs": {
+    "url": "https://github.com/VSShare/Extension-Code/issues"
+  },
+  "homepage": "https://vsshare.net/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VSShare/Extension-Code.git"
+  },
+  "license": "MIT",
+  "activationEvents": [
+    "*"
+  ],
+  "main": "./out/src/extension",
+  "contributes": {
+    "commands": [
+      {
+        "command": "vsshare.startBroadcast",
+        "title": "Start Broadcasting"
+      },
+      {
+        "command": "vsshare.stopBroadcast",
+        "title": "Stop Broadcasting"
+      },
+      {
+        "command": "vsshare.restartBroadcast",
+        "title": "Restart Broadcasting"
+      },
+      {
+        "command": "vsshare.refreshBroadcast",
+        "title": "Refresh Broadcasting"
+      },
+      {
+        "command": "vsshare.showLogWindow",
+        "title": "Show Broadcasting Log Window"
+      }
+    ],
+    "configuration": {
+      "type": "object",
+      "title": "VSShare configuration",
+      "properties": {
+        "vsshare.hubName": {
+          "type": "string",
+          "default": "broadcast",
+          "description": "Specify the hub name of your VSShare server"
+        },
+        "vsshare.url": {
+          "type": "string",
+          "default": "http://vsshare.net/signalr",
+          "description": "Specify the url of your VSShare server"
+        },
+        "vsshare.userName": {
+          "type": "string",
+          "default": "",
+          "description": "Specify the username of your VSShare server account"
+        },
+        "vsshare.userToken": {
+          "type": "string",
+          "default": "",
+          "description": "Specify the access token of your VSShare server account"
+        },
+        "vsshare.roomName": {
+          "type": "string",
+          "default": "",
+          "description": "Specify the room name for your broadcast target of VSShare server"
+        },
+        "vsshare.roomToken": {
+          "type": "string",
+          "default": "",
+          "description": "Specify the room token for your broadcast target of VSShare server"
+        },
+        "vsshare.logLevel": {
+          "type": "number",
+          "default": 1,
+          "description": "[For Server Developer]: Specify log level to show log window.(0: Debug, 1:Info, 2:Warn, 3:Error)"
+        }
+      }
+    }
+  },
+  "scripts": {
+    "vscode:prepublish": "node ./node_modules/vscode/bin/compile",
+    "compile": "node ./node_modules/vscode/bin/compile -watch -p ./"
+  },
+  "devDependencies": {
+    "typescript": "^1.6.2",
+    "vscode": "0.10.x"
+  },
+  "dependencies": {
+    "signalr-client": "0.0.16"
+  }
+}

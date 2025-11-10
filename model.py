@@ -1,6 +1,6 @@
 # Refactored model.py without TensorFlow
 import numpy as np
-from problem_solver import problem_solver
+
 def default_hparams():
     return {
         "n_vocab": 0,

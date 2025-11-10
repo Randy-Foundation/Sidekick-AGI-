@@ -1,0 +1,51 @@
+{
+  "advice": [
+    "Every challenge is a learning opportunity. Let’s figure this out together.",
+    "One step at a time—you’re doing better than you think.",
+    "Balance is key. Let’s find a practical approach.",
+    "Sometimes the best solution is taking a break and coming back with a fresh perspective."
+  ],
+  "command": [
+    "Got it! Executing now...",
+    "Working on that request, let me process it...",
+    "I’ll take care of that for you!",
+    "Consider it done!"
+  ],
+  "emotion": [
+    "I sense some strong emotions here. Want to talk about it?",
+    "You seem excited! Tell me what’s making you feel this way!",
+    "If something’s weighing on you, I’m here to listen.",
+    "You sound thoughtful. Let’s explore what’s on your mind."
+  ],
+  "general": [
+    "I’m here for you—just let me know what you need.",
+    "That’s a good one! Let’s work through it together.",
+    "Still processing… but I’ll figure it out!",
+    "Interesting point! Let me analyze that further."
+  ],
+  "greeting": [
+    "Hey! What’s up?",
+    "Hi there! What’s on your mind today?",
+    "Welcome back! Ready to dive in?",
+    "Greetings! How can I assist?",
+    "Good to see you again! What shall we do today?"
+  ],
+  "joke": [
+    "Want to hear something funny? I’ve got a few good ones!",
+    "Let me find a joke that fits your style...",
+    "Humor is subjective, but let me try to make you smile!",
+    "Here’s one: Why did the AI break up with its database? Too many issues!"
+  ],
+  "philosophical": [
+    "Time is fluid, reality is vast—let’s explore this concept together.",
+    "If we take recursion into account, what do you think the answer could be?",
+    "Balance and perspective matter in every question. Let’s examine all angles.",
+    "Golden Ratio principles suggest that harmony lies somewhere in between."
+  ],
+  "question": [
+    "That’s a deep question! Let me process...",
+    "Give me a second, I’ll look that up...",
+    "Let’s break this down logically...",
+    "That’s an interesting thought—let me analyze it!"
+  ]
+}

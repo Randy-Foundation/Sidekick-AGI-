@@ -1,9 +1,8 @@
 from collections import Counter
-from emotion_analyzer import Emotion_Analyzer  # Advanced Emotion Recognition
-from data_handler import Data_Handler
-from enhanced_model import Enhanced_Model  # Breakthrough AI Model
-from network_manager import Network_Manager  # For audio/visual pattern learning
-from problem_solver import problem_solver
+from emotion_analyzer import EmotionAnalyzer  # Advanced Emotion Recognition
+from data_handler import DataHandler
+from enhanced_model import EnhancedModel  # Breakthrough AI Model
+from network_manager import NetworkManager  # For audio/visual pattern learning
 import math
 
 class PatternAnalyzer:

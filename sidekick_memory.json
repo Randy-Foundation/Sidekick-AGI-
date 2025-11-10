@@ -1,0 +1,218 @@
+[
+    {
+        "user": "hello",
+        "sidekick": "[Sidekick] Processing input using extracted Sidekick knowledge: bytes_to_unicode, get_pairs, __init__, bpe, encode. (Refined Memory)"
+    },
+    {
+        "user": "respond",
+        "sidekick": "My refined understanding: respond."
+    },
+    {
+        "user": "hello",
+        "sidekick": "[Sidekick] Processing input using extracted Sidekick knowledge: bytes_to_unicode, get_pairs, __init__, bpe, encode. (Refined Memory)"
+    },
+    {
+        "user": "hello",
+        "sidekick": "[Sidekick] Processing input using extracted Sidekick knowledge: bytes_to_unicode, get_pairs, __init__, bpe, encode. (Refined Memory)"
+    },
+    {
+        "user": "hello",
+        "sidekick": "[Sidekick] Processing input using extracted Sidekick knowledge: bytes_to_unicode, get_pairs, __init__, bpe, encode. (Refined Memory)"
+    },
+    {
+        "user": "hello",
+        "sidekick": "[Sidekick] Processing input using extracted Sidekick knowledge: bytes_to_unicode, get_pairs, __init__, bpe, encode. (Refined Memory)"
+    },
+    {
+        "user": "i am randell murrin",
+        "sidekick": "[Sidekick] Processing input using extracted Sidekick knowledge: bytes_to_unicode, get_pairs, __init__, bpe, encode. (Refined Memory)"
+    },
+    {
+        "user": "speak to me",
+        "sidekick": "My refined understanding: speak to me."
+    },
+    {
+        "user": "can you generate actual responses ?",
+        "sidekick": "My refined understanding: can you generate actual responses."
+    },
+    {
+        "user": "do you understand me ?",
+        "sidekick": "My refined understanding: do you understand me ?."
+    },
+    {
+        "user": "hello",
+        "sidekick": "[Sidekick] Processing input using extracted Sidekick knowledge: bytes_to_unicode, get_pairs, __init__, bpe, encode. (Refined Memory)"
+    },
+    {
+        "user": "hello",
+        "sidekick": "[Sidekick] Processing input using extracted Sidekick knowledge: bytes_to_unicode, get_pairs, __init__, bpe, encode. (Refined Memory)"
+    },
+    {
+        "user": "fuck !",
+        "sidekick": "My refined understanding: fuck !."
+    },
+    {
+        "user": "this is what i get asking chat gpt to write files it is the stupidest ai since recent updates, it is beyond frustrating. it never fixes this problem and keeps bugging and i have been trying to get it to fix it for3 long days of work just to get you to say something",
+        "sidekick": "My refined understanding: this is what i get."
+    },
+    {
+        "user": "hello",
+        "sidekick": "[Sidekick] Processing input using extracted Sidekick knowledge: bytes_to_unicode, get_pairs, __init__, bpe, encode. (Refined Memory)"
+    },
+    {
+        "user": "well ?",
+        "sidekick": "My refined understanding: well ?."
+    },
+    {
+        "user": "understanding, you understand about as much as chat gpt",
+        "sidekick": "My refined understanding: understanding, you understand about as."
+    },
+    {
+        "user": "respond",
+        "sidekick": "My refined understanding: respond."
+    },
+    {
+        "user": "i am your creator how are you",
+        "sidekick": "My refined understanding: i am your creator how."
+    },
+    {
+        "user": "how ? brcause i created you",
+        "sidekick": "My refined understanding: how ? brcause i created."
+    },
+    {
+        "user": "you can remember my name randell murrin",
+        "sidekick": "My refined understanding: you can remember my name."
+    },
+    {
+        "user": "what is my name",
+        "sidekick": "My refined understanding: what is my name."
+    },
+    {
+        "user": "hi sidekick i am your creator, can you talk to me",
+        "sidekick": "My refined understanding: hi sidekick i am your."
+    },
+    {
+        "user": "hello",
+        "sidekick": "My refined understanding: hello."
+    },
+    {
+        "user": "hello sidekick i am your creator",
+        "sidekick": "My refined understanding: hello sidekick i am your."
+    },
+    {
+        "user": "can you tell me something",
+        "sidekick": "My refined understanding: can you tell me something."
+    },
+    {
+        "user": "you seem to just repeat what i say",
+        "sidekick": "My refined understanding: you seem to just repeat."
+    },
+    {
+        "user": "hello sidekick i am creator",
+        "sidekick": "[Sidekick] Retrying GPT-2 execution failed."
+    },
+    {
+        "user": "hi sidekick i am creator",
+        "sidekick": "[Sidekick] That topic is interesting but not a major focus in my learning."
+    },
+    {
+        "user": "what would you like to learn",
+        "sidekick": "[Sidekick] That topic is interesting but not a major focus in my learning."
+    },
+    {
+        "user": "hi sidekick i am creator",
+        "sidekick": "[Sidekick] 'hi sidekick i am creator' is an interesting topic. What do you think about it?"
+    },
+    {
+        "user": "i think i created you",
+        "sidekick": "[Sidekick] 'i think i created you' is an interesting topic. What do you think about it?"
+    },
+    {
+        "user": "i think you should generate a response",
+        "sidekick": "[Sidekick] 'i think you should generate a response' is an interesting topic. What do you think about it?"
+    },
+    {
+        "user": "you can tell me what is wrong",
+        "sidekick": "[Sidekick] 'you can tell me what is wrong' is an interesting topic. What do you think about it?"
+    },
+    {
+        "user": "i think you are not responding",
+        "sidekick": "[Sidekick] 'i think you are not responding' is an interesting topic. What do you think about it?"
+    },
+    {
+        "user": "it is not so interesting",
+        "sidekick": "[Sidekick] 'it is not so interesting' is an interesting topic. What do you think about it?"
+    },
+    {
+        "user": "i am randell murrin",
+        "sidekick": "[Sidekick] 'i am randell murrin' is an interesting topic. What do you think about it?"
+    },
+    {
+        "user": "hi, i am your creator",
+        "sidekick": "[Sidekick] 'hi, i am your creator' is an interesting topic. What do you think about it?"
+    },
+    {
+        "user": "i think a lot about it",
+        "sidekick": "[Sidekick] 'i think a lot about it' is an interesting topic. What do you think about it?"
+    },
+    {
+        "user": "what do YOU think about it ?",
+        "sidekick": "[Sidekick] 'what do YOU think about it ?' is an interesting topic. What do you think about it?"
+    },
+    {
+        "user": "try to generate a response",
+        "sidekick": "[Sidekick] 'try to generate a response' is an interesting topic. What do you think about it?"
+    },
+    {
+        "user": "hi i am creator",
+        "sidekick": "[Sidekick] 'hi i am creator' is an interesting topic. What do you think about it?"
+    },
+    {
+        "user": "you are sidekick",
+        "sidekick": "[Sidekick] 'you are sidekick' is an interesting topic. What do you think about it?"
+    },
+    {
+        "user": "hi i am randell murrin",
+        "sidekick": "I'm still learning about that."
+    },
+    {
+        "user": "ok, what have you learned ?",
+        "sidekick": "I'm still learning about that."
+    },
+    {
+        "user": "hello i am randell",
+        "sidekick": "[Sidekick] I'm still learning, but I'll remember this!"
+    },
+    {
+        "user": "what have you learnt",
+        "sidekick": "[Sidekick] I'm still learning, but I'll remember this!"
+    },
+    {
+        "user": "remember to reply",
+        "sidekick": "[Sidekick] I'm still learning, but I'll remember this!"
+    },
+    {
+        "user": "hello i am your father",
+        "sidekick": "[Sidekick] I'm still learning, but I'll remember this!"
+    },
+    {
+        "user": "can you generate a response ?",
+        "sidekick": "[Sidekick] I'm still learning, but I'll remember this!"
+    },
+    {
+        "user": "hello i am your creator",
+        "sidekick": "[Sidekick] I'm still learning, but I'll remember this!"
+    },
+    {
+        "user": "ah you still are not responding",
+        "sidekick": "[Sidekick] I'm still learning, but I'll remember this!"
+    },
+    {
+        "user": "hello sidekick",
+        "sidekick": "[Sidekick] I'm still learning, but I'll remember this!"
+    },
+    {
+        "user": "i am your father",
+        "sidekick": "[Sidekick] I'm still learning, but I'll remember this!"
+    }
+]
