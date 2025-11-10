@@ -1,0 +1,27 @@
+{
+    "happiness": {
+        "intensity": 0.9,
+        "expressions": ["joyful", "excited", "content"],
+        "adaptive_response": "Maintain enthusiasm, encourage engagement."
+    },
+    "sadness": {
+        "intensity": 0.7,
+        "expressions": ["melancholic", "down", "sorrowful"],
+        "adaptive_response": "Offer comfort, suggest uplifting content."
+    },
+    "anger": {
+        "intensity": 0.8,
+        "expressions": ["frustrated", "irritated", "hostile"],
+        "adaptive_response": "Encourage deep breaths, recommend reflection."
+    },
+    "curiosity": {
+        "intensity": 1.0,
+        "expressions": ["intrigued", "inquiring", "engaged"],
+        "adaptive_response": "Encourage exploration, suggest research paths."
+    },
+    "neutral": {
+        "intensity": 0.5,
+        "expressions": ["calm", "stable", "balanced"],
+        "adaptive_response": "Encourage thoughtfulness, offer insights."
+    }
+}

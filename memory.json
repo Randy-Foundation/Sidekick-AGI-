@@ -1,0 +1,5 @@
+{
+    "Tell me about recursion.": "Learning: tell (Phi^0 = 1.0) Learning: me (Phi^1 = 1.618) Learning: about (Phi^2 = 2.6179240000000004) Learning: recursion (Phi^3 = 4.235801032000001)",
+    "do you know who i am ?": "Learning: do (Phi^0 = 1.0) Learning: you (Phi^1 = 1.618) Learning: know (Phi^2 = 2.6179240000000004) Learning: who (Phi^3 = 4.235801032000001) Learning: i (Phi^4 = 6.853526069776001) Learning: am (Phi^5 = 11.089005180897571)",
+    "hello": "Learning: hello (Phi^0 = 1.0)"
+}

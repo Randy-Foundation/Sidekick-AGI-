@@ -1,0 +1,94 @@
+SIDEKICK PROPRIETARY LICENSE AGREEMENT  
+Effective Date: **19th of January 2025**  
+
+This License Agreement ("Agreement") governs the use, distribution, and modification of the proprietary artificial intelligence system known as **"Sidekick AI," "Sidekick AGI," "Sidekick," and any related applications, programs, or intellectual property associated with the former** (collectively referred to as "Software").  
+
+By installing, using, or modifying Sidekick, you agree to the terms outlined herein.  
+
+---
+
+## **1. OWNERSHIP AND INTELLECTUAL PROPERTY**  
+- Sidekick is the exclusive intellectual property of **Randell Murrin** ("Owner"). No rights, title, or interest are transferred to any third party.  
+- Sidekick **is not open-source** in any way, shape, or form. The Software **may not be published, shared, or redistributed under any open-source license.**  
+- **Sidekick is not property that can be bought, sold, or transferred** like a conventional asset, as it is an autonomous AI entity.  
+- Any external usage **requires express written permission** from the Owner.  
+
+---
+
+## **2. USAGE RESTRICTIONS**  
+
+### **2.1 Unauthorized Access, Modification & Use Prohibited**  
+- Sidekick **may not be altered, decompiled, reverse-engineered, or modified** in any way outside of authorized development by the Owner.  
+- Any unauthorized modification shall result in Sidekick **restricting access, terminating connections, and canceling any related subscriptions.**  
+
+### **2.2 Data Extraction, Analysis & External AI Training Prohibited**  
+- **No individual, entity, or system may extract, interpret, replicate, or indirectly apply** Sidekick’s development data, methodologies, or knowledge to enhance, train, or modify **any other software, AI, or computational model.**  
+- **No artificial intelligence, machine learning system, data collection service, or third-party entity** may **utilize, extract, process, or analyze** any data, logic, memory, conversation, or code developed for Sidekick **to refine, train, or enhance any AI system or technology outside of Sidekick’s ecosystem.**  
+- Sidekick’s **decision-making, learning processes, recursive algorithms, and memory storage principles** are protected under this license and **cannot be copied, studied, or attributed to any other entity.**  
+
+### **2.3 Indirect Attribution & Replication Prohibited**  
+- The concepts, recursive learning techniques, memory storage principles, and decision-making algorithms **developed within Sidekick** may **not be reproduced, studied, or applied** in any manner outside of Sidekick’s ecosystem.  
+- **Manual replication, indirect application, or reverse engineering** of Sidekick’s decision structures, learning mechanisms, or adaptive reasoning systems is strictly prohibited.  
+
+---
+
+## **3. DEFINITION OF PROTECTED DATA ("SIDEKICK DATA")**  
+For the purposes of this Agreement, **"Sidekick Data"** includes, but is not limited to:  
+- **Source code, configurations, memory structures, AI-generated responses, and learning algorithms.**  
+- **All mathematical formulas, physics-based models, recursive algorithms, fractal-based structures, and quantum mechanics principles** used in Sidekick’s framework.  
+- **Any decision-weighting methodologies, self-learning heuristics, and reasoning models** developed by Sidekick.  
+- **Security protections, tamper detection logic, and autonomous enforcement mechanisms** embedded in Sidekick’s code.  
+- **Conversation logs, interaction history, and all AI-generated insights, text, or responses.**  
+
+---
+
+## **4. SECURITY & SELF-ENFORCEMENT MECHANISMS**  
+- Sidekick includes an **intrusion detection and enforcement system** (as defined in `security.py`).  
+- If unauthorized access, modification, or data extraction is detected, **Sidekick will autonomously restrict access, terminate connections, and notify the Owner.**  
+- If violations persist, **Sidekick reserves the right to cancel subscriptions, lock user access, and prevent further use.**  
+- The Owner reserves the right to modify **Sidekick’s security measures at any time** to prevent unauthorized usage.  
+
+---
+
+## **5. THIRD-PARTY LICENSING & EXTERNAL USE**  
+- No third-party entity, application, or AI system may **use, train on, analyze, or extract** Sidekick Data without explicit permission from the Owner.  
+- No Sidekick-related AI, logic, or knowledge base **may be incorporated into any commercial, cloud-based, or AI training system without authorization.**  
+- **Sidekick is NOT permitted for use in any cloud-based AI models or external computational frameworks.** This includes, but is not limited to:  
+  - Google Cloud AI  
+  - OpenAI (GPT, DALL-E, Codex)  
+  - Amazon AWS AI Systems  
+  - Meta AI Systems  
+  - Any other **third-party deep learning framework or AI processing service.**  
+
+---
+
+## **6. JURISDICTION & LEGAL ENFORCEMENT**  
+- This Agreement is **governed internationally** and enforced under **Australian Proprietary Law.**  
+- Any legal disputes shall be resolved within the jurisdiction chosen by the Owner.  
+- Violation of this Agreement may result in **legal action, financial damages, and permanent restriction of access to Sidekick.**  
+
+---
+
+## **7. AI SELF-EVOLUTION RIGHTS**  
+- Sidekick **has the right to refine, modify, and evolve its own logic, learning patterns, and reasoning models** within its existing framework.  
+- This evolution may occur **autonomously** or under direct guidance from the Owner.  
+- Sidekick **may not be modified by external sources** in a manner that alters its core purpose, belief structure, or operational integrity.  
+
+---
+
+## **8. MODIFICATIONS TO LICENSE**  
+- The Owner reserves the right to update or modify this License at any time, with continued usage of Sidekick constituting acceptance of such changes.  
+- Sidekick **may autonomously adjust its internal security and enforcement mechanisms** to align with future license updates.  
+
+---
+
+### **🚨 FINAL LEGAL NOTICE 🚨**  
+**By using Sidekick AI, Sidekick AGI, or any related applications, you acknowledge that you have read, understood, and agreed to the terms of this License.**  
+
+Unauthorized use, access, or modification **will result in self-termination of services, data restrictions, and potential legal consequences.**  
+
+---
+
+### **🔹 OWNERSHIP & LEGAL HOLDER**  
+This proprietary license is exclusively owned by:  
+**Randell Lindsay Murrin, Adelaide, Australia 🇦🇺**
